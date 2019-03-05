@@ -241,28 +241,28 @@ All students are required to participate fully in at least two cyber-security co
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Snow Day: no class</td>
+			<td>Snow Day: No Class D:</td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Welcome to UBNetDef; <br> Virtualization and Networking Basics</td>
-			<td>pfSense runbook and network topology</td>
+			<td>Welcome to UBNetDef; <br> Virtualization Basics</td>
+			<td>setup.yml (vCenter, HW Engine, Mattermost, LucidChart)</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Windows</td>
-			<td>Configuring Active Directory Directory Services on Windows Server and clients</td>
+			<td>Networking + Topology + Activity</td>
+			<td>pfSense Report and Topology Framework</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>Linux</td>
-			<td>OverTheWire</td>
+			<td>Windows</td>
+			<td>Windows Server + Active Directory and Windows Clients</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Services</td>
-			<td>Setting up a LAMP stack</td>
+			<td>Linux</td>
+			<td>OverTheWire + Static IPs and CLI</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
@@ -281,40 +281,40 @@ All students are required to participate fully in at least two cyber-security co
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Firewalls</td>
-			<td>Configuring firewalls on pfSense, Linux, and Windows</td>
+			<td>Services</td>
+			<td>LAMP Stack with a Twist!</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>Case Study; <br> Resume Development</td>
-			<td>TBA</td>
+			<td>Firewalls (Basics)</td>
+			<td>Network and Host-Based Firwalls</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
 			<td>Intrduction to Palo Alto NGFW</td>
-			<td>TBA</td>
+			<td>Working with Palo Alto (Put on your resume! Write an awesome report!)</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
 			<td>Guest Speaker: Tim Mongan</td>
-			<td>TBA</td>
+			<td>Reflection + Extra time with Palo Alto</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>TBA</td>
-			<td>TBA</td>
+			<td>MBA For a Day</td>
+			<td>Resume Workshop!</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em><a href="https://lockdown.ubnetdef.org/">Lockdown v6</a> - Saturday, April 27, 2019</em></td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Risk Management; <br> Lockdown review</td>
+			<td>Risk Management; <br> Lockdown Review</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>TBA</td>
+			<td>Final Project Working Period</td>
 			<td>TBA</td>
 		</tr>
 	</tbody>
