@@ -4,8 +4,8 @@ title: "Firewalls"
 
 course: "Systems Security"
 semester: "Spring"
-year: 2018
-author: "Chris Klimek"
+year: 2019
+  author: "Ohad Katz"
 
 slug: "firewalls"
 navbar_active_link: "lectures"
