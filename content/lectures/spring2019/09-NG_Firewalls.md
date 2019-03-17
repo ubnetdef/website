@@ -1,5 +1,5 @@
 ---
-date: "2018-03-29"
+date: "2019-03-29"
 title: "Firewalls"
 
 course: "Systems Security"
@@ -7,7 +7,7 @@ semester: "Spring"
 year: 2019
 author: "Aibek Zhylkaidarov"
 
-slug: "firewalls"
+slug: "ng firewalls"
 navbar_active_link: "lectures"
 
 summary: |
