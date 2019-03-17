@@ -1,11 +1,11 @@
 ---
-date: "2019-03-22"
+date: "2018-04-11"
 title: "Firewalls"
 
 course: "Systems Security"
 semester: "Spring"
 year: 2019
-  author: "Ohad Katz"
+author: "Ohad Katz"
 
 slug: "firewalls"
 navbar_active_link: "lectures"
