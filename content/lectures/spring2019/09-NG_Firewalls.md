@@ -11,7 +11,7 @@ slug: "ng firewalls"
 navbar_active_link: "lectures"
 
 summary: |
-  A presentation about a Wall of Fire!
+  A presentation about a better Wall of Fire!
 
 slides: "/slides/spring2019/Coming_Soon.pdf"
 
