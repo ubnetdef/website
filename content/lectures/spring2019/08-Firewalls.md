@@ -1,6 +1,6 @@
 ---
 date: "2018-04-11"
-title: "Firewalls"
+title: "Firewallz"
 
 course: "Systems Security"
 semester: "Spring"
