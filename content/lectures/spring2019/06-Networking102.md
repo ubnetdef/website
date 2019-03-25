@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Let's talk about internet communication (no pun intended), focusing on Layers 3-5.
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/advanced-Networking-Spring2019.pdf"
 
 has_page: false
 ---
