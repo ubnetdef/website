@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   A presentation about the basics of the Linux OS.
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/LinuxKungFu.pdf"
 
 has_page: false
 ---

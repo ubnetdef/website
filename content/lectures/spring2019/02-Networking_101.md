@@ -14,7 +14,7 @@ summary: |
   Let's dive deep into Networking.
   We will be starting from the ground up.
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/intro-Networking1-Spring2019.pdf"
 
 has_page: false
 ---
