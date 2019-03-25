@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Control ALLLLLL the Networks!
 
-slides: "/slides/spring2019/advanced-Networking-Spring2019.pdf
+slides: "/slides/spring2019/advanced-Networking-Spring2019.pdf"
 
 has_page: false
 ---
