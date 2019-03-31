@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Control ALL the Services!
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/Services.pdf"
 
 has_page: false
 ---
