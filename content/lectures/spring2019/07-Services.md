@@ -5,13 +5,13 @@ title: "Services"
 course: "Systems Security"
 semester: "Spring"
 year: 2019
-author: "TBD"
+author: "Vincent Bruno"
 
 slug: "services"
 navbar_active_link: "lectures"
 
 summary: |
-  Control ALL the Services!
+  Web Dude! The website is down!
 
 slides: "/slides/spring2019/Services.pdf"
 
