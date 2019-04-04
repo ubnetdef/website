@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   A presentation about a Wall of Fire!
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/Furwall.pdf"
 
 has_page: false
 ---
