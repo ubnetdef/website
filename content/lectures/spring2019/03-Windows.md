@@ -11,9 +11,9 @@ slug: "windows"
 navbar_active_link: "lectures"
 
 summary: |
-  Control ALL the Computers! (Except the non-Windows ones)
+  This is an airconditioned room - Do not open Windows! 
 
-slides: "/slides/spring2019/Coming_Soon.pdf"
+slides: "/slides/spring2019/Windows.pdf"
 
 has_page: false
 ---
