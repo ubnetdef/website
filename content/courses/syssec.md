@@ -218,7 +218,7 @@ Attendance for all lectures is required. Two absences or late arrival is permitt
 
 
 ## Competition Participation
-All students are required to participate fully in at least two cyber-security competitions, including the UB Lockdown competition. Various competitions will be announced throughout the academic semester.
+All students are required to participate fully in at least three cyber-security competitions, including two UB Lockdown competitions. Various competitions will be announced throughout the academic semester.
 
 
 ## Homework Assignments
