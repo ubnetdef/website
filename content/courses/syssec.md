@@ -1,5 +1,5 @@
 ---
-date: "2019-01-17"
+date: "2019-08-22"
 title: "Systems Security"
 navbar_active_link: "courses"
 
@@ -146,35 +146,27 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	<tbody>
 		<tr>
 			<td>Website</td>
-			<td><a href="https://ubnetdef.org/courses/syssec">https://ubnetdef.org/courses/syssec</a></td>
+			<td><a href="https://ubnetdef.org/courses/syssec">ubnetdef.org/courses/syssec</a></td>
 		</tr>
 		<tr>
 			<td>Chat Channel</td>
-			<td><a href="https://chat.ubnetdef.org">https://chat.ubnetdef.org</a></td>
+			<td><a href="https://chat.ubnetdef.org">chat.ubnetdef.org</a></td>
 		</tr>
 		<tr>
 			<td>Wiki</td>
-			<td><a href="https://wiki.ubnetdef.org">https://wiki.ubnetdef.org</a></td>
+			<td><a href="https://wiki.ubnetdef.org">wiki.ubnetdef.org</a></td>
 		</tr>
 		<tr>
 			<td>vCenter Server</td>
-			<td>cdr-vcenter1.cse.buffalo.edu</td>
+			<td><a href="https://cdr-vcenter.cse.buffalo.edu">cdr-vcenter.cse.buffalo.edu</a></td>
 		</tr>
 		<tr>
 			<td>UB VPN</td>
-			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> - You need this to be able      to connect to vCenter while off campus or off network</td>
-		</tr>
-		<tr>
-			<td>vCenter Client</td>
-			<td><a href="https://ubnetdef.org/vcenter">https://ubnetdef.org/vcenter</a></td>
+			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> <br> You need this to be able to connect to vCenter while off campus or off network</td>
 		</tr>
 		<tr>
 			<td>Homework Engine</td>
-			<td><a href="https://homework.ubnetdef.org">https://homework.ubnetdef.org</a></td>		
-		</tr>
-		<tr>
-			<td>Virtual Box</td>
-			<td><a href= "https://www.virtualbox.org/wiki/Downloads">https://www.virtualbox.org/wiki/Downloads</a></td>
+			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a></td>
 		</tr>
 	</tbody>
 </table>
