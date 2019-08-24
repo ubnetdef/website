@@ -5,13 +5,13 @@ navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
+semester: "Fall"
 year: 2019
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2019 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2019 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -214,7 +214,7 @@ All students are required to participate fully in at least three cyber-security 
 
 
 ## Homework Assignments
-<p>Homework will generally be assigned each week, and will likely be based on the topics in the <a href="#class-schedule">class schedule</a>. Unless otherwise specified, they will be released and submitted at <a href="https://homework.ubnetdef.org/">homework.ubnetdef.org</a> (the "Homework Engine").</p>
+Homework will generally be assigned each week, and will likely be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [homework.ubnetdef.org](https://homework.ubnetdef.org/) (the "Homework Engine").
 
 
 ## Class Schedule
@@ -233,80 +233,83 @@ All students are required to participate fully in at least three cyber-security 
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Snow Day: No Class D:</td>
-			<td></td>
+			<td>Welcome to UBNetDef</td>
+			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Welcome to UBNetDef; <br> Virtualization Basics</td>
-			<td>setup.yml (vCenter, HW Engine, Mattermost, LucidChart)</td>
+			<td>Virtualization</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Networking + Topology + Activity</td>
-			<td>pfSense Report and Topology Framework</td>
+			<td>Introduction to Networking</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
-			<td>Windows Server + Active Directory and Windows Clients</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
-			<td>OverTheWire + Static IPs and CLI</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Guest Speaker: Rich Davenport</td>
+			<td>Services</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Networking</td>
+			<td>Risk Management; "MBA for a Day"</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Spring Break</td>
+			<td>Guest Speaker: Tim Mongan</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Services</td>
-			<td>LAMP Stack with a Twist!</td>
-		</tr>
-		<tr>
-			<td>Week 10</td>
-			<td>Firewalls (Basics)</td>
-			<td>Network and Host-Based Firwalls</td>
-		</tr>
-		<tr>
-			<td>Week 11</td>
-			<td>Intrduction to Palo Alto NGFW</td>
-			<td>Working with Palo Alto (Put on your resume! Write an awesome report!)</td>
-		</tr>
-		<tr>
-			<td>Week 12</td>
-			<td>Guest Speaker: Tim Mongan</td>
-			<td>Reflection + Extra time with Palo Alto</td>
-		</tr>
-		<tr>
-			<td>Week 13</td>
-			<td>MBA For a Day</td>
-			<td>Resume Workshop!</td>
-		</tr>
-		<tr>
-			<td colspan="3"><em><a href="https://lockdown.ubnetdef.org/">Lockdown v6</a> - Saturday, April 27, 2019</em></td>
-		</tr>
-		<tr>
-			<td>Week 14</td>
-			<td>Risk Management; <br> Lockdown Review</td>
+			<td>Introduction to Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, October 26, 2019:
+				<a href="https://lockdown.ubnetdef.org/">Lockdown v7</a>
+			</em></td>
+		</tr>
+		<tr>
+			<td>Week 10</td>
+			<td>Next-Generation Firewalls</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 11</td>
+			<td>Packet Analysis</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 12</td>
+			<td>Advanced Networking</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 13</td>
+			<td>IT Security Controls</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 14</td>
+			<td>Fall Recess</td>
+			<td></td>
+		</tr>
+		<tr>
 			<td>Week 15</td>
-			<td>Final Project Working Period</td>
+			<td>TBD</td>
 			<td>TBA</td>
 		</tr>
 	</tbody>
