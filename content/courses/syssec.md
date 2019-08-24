@@ -206,7 +206,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 
 # Course Requirements
 ## Lectures
-Attendance for all lectures is required. Two absences or late arrival is permitted without penalty. Greater than two means you recieve an F in the course. Students arriving late or unprepared may also receive a penalty at the discretion of the instructor. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructors. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 
 ## Competition Participation
