@@ -54,6 +54,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
+			<td>Afee Daiyan</td>
+			<td>afeedaiy@buffalo.edu</td>
+			<td>afeedaiy</td>
+		</tr>
+		<tr>
 			<td>Aibek Zhylkaidarov</td>
 			<td>aibekzhy@buffalo.edu</td>
 			<td>l1ghtman</td>
@@ -64,19 +69,9 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>amavs</td>
 		</tr>
 		<tr>
-			<td>Afee Daiyan</td>
-			<td>afeedaiy@buffalo.edu</td>
-			<td>afeedaiy</td>
-		</tr>
-		<tr>
-			<td>Destiney Plaza</td>
-			<td>destiney@buffalo.edu</td>
-			<td>destiney</td>
-		</tr>
-		<tr>
-			<td>Stephen James</td>
-			<td>sjames5@buffalo.edu</td>
-			<td>stephenorjames</td>
+			<td>Anup Johnson</td>
+			<td>anupjohn@buffalo.edu</td>
+			<td>anupjohn</td>
 		</tr>
 		<tr>
 			<td>Aritra Paul</td>
@@ -87,47 +82,52 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Brian Brown</td>
 			<td>brbrown2@buffalo.edu</td>
 			<td>brianbrown.tar.gz</td>
-		</tr>
-		<tr>
-			<td>Frank Baiata</td>
-			<td>frankbai@buffalo.edu</td>
-			<td>frankb45</td>
-		</tr>	
-		<tr>
-			<td>Charles Wiechec</td>
-			<td>cwiechec@buffalo.edu</td>
-			<td>bashasaurusrex</td>
-		</tr>			
-		<tr>
-			<td>Sriniketh Varma Dasarraju</td>
-			<td>sriniket@buffalo.edu</td>
-			<td>srini</td>
-		</tr>	
+		</tr>		
 		<tr>
 			<td>Can Toprak</td>
 			<td>cantopra@buffalo.edu</td>
 			<td>toprak</td>
 		</tr>
 		<tr>
-			<td>Shanelle Ileto</td>
-			<td>sdileto@buffalo.edu</td>
-			<td>shanelleileto</td>
+			<td>Charles Wiechec</td>
+			<td>cwiechec@buffalo.edu</td>
+			<td>bashasaurusrex</td>
 		</tr>		
 		<tr>
-			<td>Zachary Tenenbaum</td>
-			<td>zatenenb@buffalo.edu</td>
-			<td>zachtenenbaum</td>
-		</tr>		
+			<td>Destiney Plaza</td>
+			<td>destiney@buffalo.edu</td>
+			<td>destiney</td>
+		</tr>
 		<tr>
-			<td>Anup Johnson</td>
-			<td>anupjohn@buffalo.edu</td>
-			<td>anupjohn</td>
+			<td>Frank Baiata</td>
+			<td>frankbai@buffalo.edu</td>
+			<td>frankb45</td>
 		</tr>
 		<tr>
 			<td>Jay Chen</td>
 			<td>jaychen@buffalo.edu</td>
 			<td>jay_c</td>
-		</tr>	
+		</tr>		
+		<tr>
+			<td>Shanelle Ileto</td>
+			<td>sdileto@buffalo.edu</td>
+			<td>shanelleileto</td>
+		</tr>			
+		<tr>
+			<td>Sriniketh Varma Dasarraju</td>
+			<td>sriniket@buffalo.edu</td>
+			<td>srini</td>
+		</tr>			
+		<tr>
+			<td>Stephen James</td>
+			<td>sjames5@buffalo.edu</td>
+			<td>stephenorjames</td>
+		</tr>
+		<tr>
+			<td>Zachary Tenenbaum</td>
+			<td>zatenenb@buffalo.edu</td>
+			<td>zachtenenbaum</td>
+		</tr>
 	</tbody>
 </table>
 
