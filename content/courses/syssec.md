@@ -269,109 +269,100 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 	</tbody>
 </table>
+
 ## Getting Assistance
 The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors are constantly on the server, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef chat server, please contact an instructor.
 
 # Grading Policy
-<div class="row">
-    <div class="col-md-12">
-		<table class="table table-bordered" style="max-width: 600px;">
-			<thead>
-				<tr>
-					<th colspan="6">Systems Security Grading Scale</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td>Attendance</td>
-					<td>15%</td>
-				</tr>
-				<tr>
-					<td>Lockdown</td>
-					<td>15%</td>
-				</tr>
-				<tr>
-					<td>Final Project</td>
-					<td>15%</td>
-				</tr>
-				<tr>
-					<td>Projects</td>
-					<td>50%</td>
-				</tr>
-				<tr>
-					<td>Extra Competition</td>
-					<td>5%</td>
-				</tr>
-		       		<tr>
-					<td><strong>Total</strong></td>
-					<td><strong>100%</strong></td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
-</div>
 
-<div class="row">
-    <div class="col-md-12">
-		<table class="table table-bordered" style="max-width: 600px;">
-			<thead>
-				<tr>
-					<th colspan="6">Systems Security Grading Scale</th>
-				</tr>
-			</thead>
-			<tbody>
-				<tr>
-					<td> A </td>
-					<td> 90% </td>
-				</tr>
-				<tr>
-					<td> A- </td>
-					<td> 86.66% </td>
-				</tr>
-				<tr>
-					<td> B+ </td>
-					<td> 83.33% </td>
-				</tr>
-                		<tr>
-					<td> B </td>
-					<td> 80% </td>
-				</tr>
-				<tr>
-					<td> B- </td>
-					<td> 76.66% </td>
-				</tr>
-               		 	<tr>
-					<td> C+ </td>
-					<td> 73.33% </td>
-				</tr>
-                		<tr>
-					<td> C </td>
-					<td> 70% </td>
-				</tr>
-                		<tr>
-					<td> C- </td>
-					<td> 66.66% </td>
-				</tr> 
-                		<tr>
-					<td> D+ </td>
-					<td> 63.66% </td>
-				</tr> 
-                		<tr>
-					<td> D </td>
-					<td> 60% </td>
-				</tr> 
-                		<tr>
-					<td> D- </td>
-					<td> 56.66% </td>
-				</tr> 
-                		<tr>
-					<td> F </td>
-					<td> 0 - 53%  </td>
-				</tr> 
-			</tbody>
-		</table>
-	</div>
-</div>
+## Grading Breakdown
+<table class="table table-bordered" style="max-width: 600px;">
+	<thead>
+		<tr>
+			<th>Component</th>
+			<th>Percentage of overall grade</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Attendance</td>
+			<td>15%</td>
+		</tr>
+		<tr>
+			<td>Weekly Projects</td>
+			<td>50%</td>
+		</tr>
+		<tr>
+			<td>Final Project</td>
+			<td>15%</td>
+		</tr>
+		<tr>
+			<td>Lockdown</td>
+			<td>15%</td>
+		</tr>
+		<tr>
+			<td>Extra Competition</td>
+			<td>5%</td>
+		</tr>
+		<tr>
+			<td><strong>Total</strong></td>
+			<td><strong>100%</strong></td>
+		</tr>
+	</tbody>
+</table>
+
+
+## Grading Scale
+<table class="table table-bordered" style="max-width: 600px;">
+	<thead>
+		<tr>
+			<th>Letter grade</th>
+			<th>Percentage</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>A</td>
+			<td>&ge; 93%</td>
+		</tr>
+		<tr>
+			<td>A-</td>
+			<td>&ge; 90%</td>
+		</tr>
+		<tr>
+			<td>B+</td>
+			<td>&ge; 87%</td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td>&ge; 83%</td>
+		</tr>
+		<tr>
+			<td>B-</td>
+			<td>&ge; 80%</td>
+		</tr>
+		<tr>
+			<td>C+</td>
+			<td>&ge; 77%</td>
+		</tr>
+		<tr>
+			<td>C</td>
+			<td>&ge; 73%</td>
+		</tr>
+		<tr>
+			<td>C-</td>
+			<td>&ge; 70%</td>
+		</tr>
+		<tr>
+			<td>D</td>
+			<td>&ge; 65%</td>
+		</tr>
+		<tr>
+			<td>F</td>
+			<td>&lt;65%</td>
+		</tr>
+	</tbody>
+</table>
 
 # Course Conduct
 ## Academic Integrity
