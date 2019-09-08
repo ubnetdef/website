@@ -10,12 +10,9 @@ author: "Frank Baiata"
 slug: "virtualization"
 navbar_active_link: "lectures"
 
-summary: |
-My Machines got machines.  
+summary: My Machines got machines.  
 
-slides: "/slides/fall2019/VirtualizationSECDEV.pdf"
+slides: "/slides/fall2019/virtualization.pdf"
 
 has_page: false
 ---
-
-
