@@ -1,6 +1,6 @@
 ---
 date: "2019-09-05"
-title: "01 - Virtualization"
+title: "02 - Virtualization"
 
 course: "Systems Security"
 semester: "Fall"
@@ -12,7 +12,7 @@ navbar_active_link: "lectures"
 
 summary: My Machines got machines.  
 
-slides: "/slides/fall2019/virtualization.pdf"
+slides: "/slides/fall2019/02-virtualization.pdf"
 
 has_page: false
 ---

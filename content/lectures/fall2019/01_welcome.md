@@ -1,19 +1,19 @@
 ﻿---
-date: "2018-08-30"
-title: "00 - Welcome to UBNetDef"
+date: "2019-08-29"
+title: "01 - Welcome to UBNetDef"
 
 course: "Systems Security"
 semester: "Fall"
-year: 2018
+year: 2019
 author: "The UBNetDef Team"
 
 slug: "welcome_to_ubnetdef"
 navbar_active_link: "lectures"
 
 summary: |
-  Hello, World. Welcome to UBNetDef Fall 2018.
+  Hello, World. Welcome to UBNetDef Fall 2019.
 
-slides: "/slides/fall2018/welcome.pdf"
+slides: "/slides/fall2019/01-welcome.pdf"
 
 has_page: true
 ---
