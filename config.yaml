@@ -8,6 +8,7 @@ menu:
   main:
     - Name: "about"
       Weight: 100
+      URL: "/about"
     - Name: "FAQ"
       Weight: 101
       URL: "/about/faq"
@@ -19,6 +20,7 @@ menu:
 
     - Name: "courses"
       Weight: 200
+      URL: "/courses"
     - Name: "Systems Security"
       Weight: 201
       URL: "/courses/syssec"

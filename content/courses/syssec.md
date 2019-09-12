@@ -54,11 +54,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>Afee Daiyan</td>
-			<td>afeedaiy@buffalo.edu</td>
-			<td>afeedaiy</td>
-		</tr>
-		<tr>
 			<td>Aibek Zhylkaidarov</td>
 			<td>aibekzhy@buffalo.edu</td>
 			<td>l1ghtman</td>
