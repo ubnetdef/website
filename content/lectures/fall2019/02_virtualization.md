@@ -10,7 +10,7 @@ author: "Frank Baiata"
 slug: "virtualization"
 navbar_active_link: "lectures"
 
-summary: My Machines got machines.  
+summary: A machine within a machine.  
 
 slides: "/slides/fall2019/02-virtualization.pdf"
 
