@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Web Dude! The website is down!
 
-slides: "/slides/fall2019/services.pdf"
+slides: "/slides/fall2019/06-services.pdf"
 
 has_page: false
 ---
