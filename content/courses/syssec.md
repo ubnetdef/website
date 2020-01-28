@@ -1,17 +1,17 @@
 ---
-date: "2019-08-22"
+date: "2020-01-27"
 title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Fall"
-year: 2019
+semester: "Spring"
+year: 2020
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2019 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2020 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -64,6 +64,16 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>amavs</td>
 		</tr>
 		<tr>
+			<td>Andrew Shi</td>
+			<td>ashi@buffalo.edu</td>
+			<td>ashi</td>
+		</tr>
+		<tr>
+			<td>Anthony Magrene</td>
+			<td>ammagren@buffalo.edu</td>
+			<td>magrene</td>
+		</tr>
+		<tr>
 			<td>Anup Johnson</td>
 			<td>anupjohn@buffalo.edu</td>
 			<td>anupjohn</td>
@@ -72,52 +82,47 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Aritra Paul</td>
 			<td>aritrapa@buffalo.edu</td>
 			<td>aripaul</td>
-		</tr>
-		<tr>
-			<td>Brian Brown</td>
-			<td>brbrown2@buffalo.edu</td>
-			<td>brianbrown.tar.gz</td>
-		</tr>		
+		</tr>	
 		<tr>
 			<td>Can Toprak</td>
 			<td>cantopra@buffalo.edu</td>
 			<td>toprak</td>
+		</tr>	
+		<tr>
+			<td>Derek Caudill</td>
+			<td>derekcau@buffalo.edu</td>
+			<td>derekcaudil</td>
 		</tr>
 		<tr>
-			<td>Charles Wiechec</td>
-			<td>cwiechec@buffalo.edu</td>
-			<td>bashasaurusrex</td>
-		</tr>		
-		<tr>
-			<td>Destiney Plaza</td>
-			<td>destiney@buffalo.edu</td>
-			<td>destiney</td>
-		</tr>
-		<tr>
-			<td>Frank Baiata</td>
-			<td>frankbai@buffalo.edu</td>
-			<td>frankb45</td>
+			<td>Dewan Islam</td>
+			<td>dewanisl@buffalo.edu</td>
+			<td>dewanisl</td>
 		</tr>
 		<tr>
 			<td>Jay Chen</td>
 			<td>jaychen@buffalo.edu</td>
 			<td>jay_c</td>
-		</tr>		
+		</tr>
+		<tr>
+			<td>Lucas Crassidis</td>
+			<td>lucascra@buffalo.edu</td>
+			<td>wildcard</td>
+		</tr>			
 		<tr>
 			<td>Shanelle Ileto</td>
 			<td>sdileto@buffalo.edu</td>
 			<td>shanelleileto</td>
-		</tr>			
+		</tr>
+		<tr>
+			<td>Shreya Lakhkar</td>
+			<td>shreyala@buffalo.edu</td>
+			<td>shreya</td>
+		</tr>				
 		<tr>
 			<td>Sriniketh Varma Dasarraju</td>
 			<td>sriniket@buffalo.edu</td>
 			<td>srini</td>
 		</tr>			
-		<tr>
-			<td>Stephen James</td>
-			<td>sjames5@buffalo.edu</td>
-			<td>stephenorjames</td>
-		</tr>
 		<tr>
 			<td>Zachary Tenenbaum</td>
 			<td>zatenenb@buffalo.edu</td>
@@ -223,78 +228,84 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Virtualization</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Week 3</td>
-			<td>Introduction to Networking</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 4</td>
-			<td>Windows</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 5</td>
-			<td>Linux</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 6</td>
-			<td>Services</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 7</td>
-			<td>Risk Management; "MBA for a Day"</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 8</td>
-			<td>Guest Speaker: Tim Mongan</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 9</td>
-			<td>Introduction to Firewalls</td>
+			<td>Virtualization and Networking</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, October 26, 2019:
-				<a href="https://lockdown.ubnetdef.org/">Lockdown v7</a>
+				Saturday, February 8th, 2020:
+				<a href="https://lockdown.ubnetdef.org/">Lockdown High School 3</a>
 			</em></td>
 		</tr>
 		<tr>
+			<td>Week 3</td>
+			<td>Windows</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 4</td>
+			<td>Linux</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 5</td>
+			<td>Services</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 6</td>
+			<td>Ansible</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
+			<td>Guest Lecture</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 8</td>
+			<td>SPRING BREAK!!!</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 9</td>
+			<td>Guest Lecture: Tim Mongan</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
 			<td>Week 10</td>
-			<td>Next-Generation Firewalls</td>
+			<td>Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Packet Analysis</td>
+			<td>Palo Alto (Next Gen Firewall)</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Advanced Networking</td>
+			<td>Packet Analysis/NetSec Presentations</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>IT Security Controls</td>
+			<td>MBA for a day</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, April 25, 2020:
+				<a href="https://lockdown.ubnetdef.org/">Lockdown v8</a>
+			</em></td>
+		</tr>
+		<tr>
 			<td>Week 14</td>
-			<td>Fall Recess</td>
-			<td></td>
+			<td>Risk Management/IT Security Controls, Lockdown Review</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>TBD</td>
+			<td>Final Project</td>
 			<td>TBA</td>
 		</tr>
 	</tbody>
