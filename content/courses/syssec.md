@@ -228,13 +228,14 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Virtualization and Networking</td>
+			<td>Virtualization and Networking<br/>
+			Guest Lecture: Stephen James</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
 				Saturday, February 8th, 2020:
-				<a href="https://lockdown.ubnetdef.org/">Lockdown High School 3</a>
+				<a href="https://lockdown.ubnetdef.org/highschool/">Lockdown High School v3</a>
 			</em></td>
 		</tr>
 		<tr>
