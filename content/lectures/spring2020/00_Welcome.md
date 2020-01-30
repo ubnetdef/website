@@ -26,4 +26,4 @@ Throughout the semester, all of the assignments will be completed in our virtual
 We will be using the HTML5 client for VCenter.
 
 # Mattermost
-We will be utilizing Mattermost throughout the semester.  Please ensure you [join our chat(https://chat.ubnetdef.org).
+We will be utilizing Mattermost throughout the semester.  Please ensure you [join our chat](https://chat.ubnetdef.org).
