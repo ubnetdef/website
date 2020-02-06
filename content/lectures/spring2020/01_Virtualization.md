@@ -12,9 +12,9 @@ navbar_active_link: "lectures"
 
 summary: |
   "Your computers got computers :)"
+ 
 
-
-slides: "/slides/spring2020/01_Virtualization.pdf"
+slides: "/slides/spring2020/Virtualization.pdf"
 
 has_page: false
 ---
