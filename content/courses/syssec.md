@@ -245,7 +245,8 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>Linux</td>
+			<td>Linux<br/>
+			Guest Lecture: Aaron Beauregard</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
