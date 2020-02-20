@@ -11,9 +11,7 @@ slug: "linux"
 navbar_active_link: "lectures"
 
 summary: |
-  "What's a Linux Sysadmin's Favorite game? 
-	 Sudo ku"
- 
+  "What's a Linux Sysadmin's Favorite game? - Sudo ku :stuck_out_tongue:"
 
 slides: "/slides/spring2020/Linux.pdf"
 
