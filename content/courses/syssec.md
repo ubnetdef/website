@@ -271,7 +271,7 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Guest Lecture: Tim Mongan</td>
+			<td>Penetration Testing</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -295,15 +295,15 @@ Homework will generally be assigned each week, and will likely be based on the t
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, April 25, 2020:
-				<a href="https://lockdown.ubnetdef.org/">Lockdown v8</a>
-			</em></td>
-		</tr>
-		<tr>
 			<td>Week 14</td>
 			<td>Risk Management/IT Security Controls, Lockdown Review</td>
 			<td>TBA</td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, May 2nd, 2020:
+				<a href="https://lockdown.ubnetdef.org/">Lockdown v8</a>
+			</em></td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
