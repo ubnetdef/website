@@ -41,7 +41,7 @@ The course is built on the premise that students learn best by actively doing, a
 			<tr>
 			<td>Peter Gebura </td>
 			<td>pngebura@buffalo.edu</td>
-			<td>@petergebura/td>
+			<td>@petergebura</td>
 		</tr>
 			<tr>
 			<td>Zach Tenenbaum</td>
