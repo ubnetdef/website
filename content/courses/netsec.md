@@ -49,7 +49,7 @@ The course is built on the premise that students learn best by actively doing, a
 			<td>@zachtenenbaum</td>
 		</tr>
 			<tr>
-			<td>Srini Dasarraju</td>
+			<td>Sriniketh Varma Dasarraju</td>
 			<td>sriniket@buffalo.edu</td>
 			<td>@srini</td>
 		</tr>
