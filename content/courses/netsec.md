@@ -11,7 +11,7 @@ difficulty: "Intermediate"
 
 active: true
 
-subtext: "Spring 2018 / Online / Daily"
+subtext: "Spring 2020 / Online / Daily Sunday - Thursday"
 ---
 
 # Overview
@@ -36,7 +36,22 @@ The course is built on the premise that students learn best by actively doing, a
 		<tr>
 			<td>Chris Crawford</td>
 			<td>christopher.p.crawford@gmail.com</td>
-			<td>chriscrawford</td>
+			<td>@chriscrawford</td>
+		</tr>
+			<tr>
+			<td>Peter Gebura </td>
+			<td>pngebura@buffalo.edu</td>
+			<td>@petergebura/td>
+		</tr>
+			<tr>
+			<td>Zach Tenenbaum</td>
+			<td>zatenenb@buffalo.edu</td>
+			<td>@zachtenenbaum</td>
+		</tr>
+			<tr>
+			<td>Srini Dasarraju</td>
+			<td>sriniket@buffalo.edu</td>
+			<td>@srini</td>
 		</tr>
 	</tbody>
 </table>
