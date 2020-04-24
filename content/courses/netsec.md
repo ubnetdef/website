@@ -57,13 +57,20 @@ The course is built on the premise that students learn best by actively doing, a
 </table>
 
 # Course Objectives
-At a high level, each student has five objectives to meet:
+At a high level, each student has the following objectives to meet:
 
-1. Build a 5-node network.  (See the network diagram attached on the last page.)
-2. Compile open source network defense tools, and monitor legitimate network traffic over their new network.
-3. Using the knowledge and capabilities gained from the previous two objectives, analyze malicious network traffic from prior network defense competition.
-4. Write effectively about the steps they took to meet objectives 1 - 3.
-5. Present the status of their work in front of a large audience at least twice.
+1. Understand the advantage of using the passive voice in comparison to the active voice. 
+2. Read the Lockheed Martin Cyber Kill Chain paper to identify Indicators of Compromise (IoC), distinguish intrusion kill chain phases, and recommend mitigation strategies.
+3. Build a 3-node network using VirtualBox (see topology below).    
+4. Compile open source network defense tools (such as Zeek and Snort) to monitor legitimate network traffic over their new network.    
+5. Using the knowledge and capabilities gained from the previous objectives, analyze malicious network traffic from prior network defense competition packet captures.   
+6. Effectively communicate in written reports, without using the passive voice, the steps taken and results of the packet analysis (see report outline below).    
+7. Present twice as a group to the Systems Security class.   
+    
+# Course Tasks (20% of grade)
+Students will apply an Agile methodology (similar to Scrum) to accomplish the tasks assigned, utilizing Trello to track all progress throughout the semester. Students must complete the tasks in order before moving on to the next task and submit PowerPoint slides to Dropbox upon completion. Additionally, students will upload a daily screenshot to Dropbox prior to the daily meeting which highlights their progress. Students are also required to update their daily progress and active task on Trello before the daily meeting. All class communication will be conducted through the Mattermost course chat channel and students are encouraged to collaborate and ask questions in this channel. 
+The course tasks consist of building a 3-node network, compiling and installing various tools, and becoming familiar with the tools. Students will construct their network using VirtualBox and Vagrant. The primary packet analysis tools utilized in class are Wireshark, Snort, Zeek (Bro), and Splunk. 
+An example list of tasks to be completed is outlined [here](/content/Course_Tasks.docx) (link to list). Please note that these are tasks from a past semester and that tasks vary between semesters. 
 
 # Course Calendar
 The instructor will share the official course calendar with students as a Google Calendar during the first week of class.  Students are expected to have their own Google Calendar for this class, and will be asked to block out times that they are unavailable to meet.
