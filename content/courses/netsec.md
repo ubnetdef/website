@@ -125,11 +125,6 @@ Below is the scoring for the daily meetings.
 		</tr>
 		<tr>
 			<td>1</td>
-			<td> </td>
-			<td>If student filled out the Trello cards before the meeting begins.</td>
-		</tr>
-		<tr>
-			<td>1</td>
 			<td>5%</td>
 			<td>If the student does not use more than 2 minutes during the meeting.</td>
 		</tr>
@@ -201,7 +196,9 @@ Before the next time we meet, I will do **\_Z\_**, and I will prove I did **\_Z\
 
 ### Vacation Day (5%)
 I plan to use a vacation day for the next meeting, and the next time I will be here is on **\_DAY\_**.
+
 **OR**
+
 I do not plan to use a vacation day and will be here for the next meeting.
 
 Here are copies of all three meeting scripts: (links to document for each).
@@ -278,7 +275,7 @@ The dates of the presentations will be determined once the semester begins. The 
 					<td>B</td>
 				</tr>
 				<tr>
-					<td>70% <= X < 80%/td>
+					<td>70% <= X < 80%</td>
 					<td>C</td>
 				</tr>
 				<tr>
