@@ -70,7 +70,7 @@ At a high level, each student has the following objectives to meet:
 # Course Tasks (20% of grade)
 Students will apply an Agile methodology (similar to Scrum) to accomplish the tasks assigned, utilizing Trello to track all progress throughout the semester. Students must complete the tasks in order before moving on to the next task and submit PowerPoint slides to Dropbox upon completion. Additionally, students will upload a daily screenshot to Dropbox prior to the daily meeting which highlights their progress. Students are also required to update their daily progress and active task on Trello before the daily meeting. All class communication will be conducted through the Mattermost course chat channel and students are encouraged to collaborate and ask questions in this channel. 
 The course tasks consist of building a 3-node network, compiling and installing various tools, and becoming familiar with the tools. Students will construct their network using VirtualBox and Vagrant. The primary packet analysis tools utilized in class are Wireshark, Snort, Zeek (Bro), and Splunk. 
-An example list of tasks to be completed is outlined [here](https://drive.google.com/open?id=17ibwK5LlhMMOg2sYPiEiwedYRUXhaYxf) (link to list). Please note that these are tasks from a past semester and that tasks vary between semesters.
+An example list of tasks to be completed is outlined [here](https://drive.google.com/open?id=17ibwK5LlhMMOg2sYPiEiwedYRUXhaYxf). Please note that these are tasks from a past semester and that tasks vary between semesters.
 
 
 ## Daily Sync Meeting (45%)
@@ -78,7 +78,7 @@ This class is designed to be extremely hands-on and borrows some of its structur
 
 Class meets five days a week (Sunday-Thursday) on Zoom for no more than 10 minutes, at the same time every day. During the meeting, each student answers the following three questions:
 
-1.  What did you accomplish since the last time we met?
+1. What did you accomplish since the last time we met?
 2. What do you plan to accomplish before our next meeting?
 3. Have you encountered any obstacles? If so, how do you plan to overcome them to complete the task?
 
@@ -197,7 +197,7 @@ Before the next time we meet, I will do **\_Z\_**, and I will prove I did **\_Z\
 ### Vacation Day (5%)
 I plan to use a vacation day for the next meeting, and the next time I will be here is on **\_DAY\_**.
 
-**OR**
+**\-OR\-**
 
 I do not plan to use a vacation day and will be here for the next meeting.
 
