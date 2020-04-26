@@ -201,7 +201,7 @@ I plan to use a vacation day for the next meeting, and the next time I will be h
 
 I do not plan to use a vacation day and will be here for the next meeting.
 
-Here are copies of all three meeting scripts: (links to document for each).
+Here are copies of all three meeting scripts:
 <ul>
 	<li><a href="https://drive.google.com/open?id=1IOnBk-F33yE-wC8n-KZayUjy7wZCkX6Z">Regular Daily Meeting Script</a></li>
 	<li><a href="https://drive.google.com/open?id=1_uT-slF9rXUWVtuN8codrhm0aQcoJwU0">First Alternate Daily Meeting Script</a></li>
@@ -228,7 +228,7 @@ Of note, the following infractions will automatically result in a grade of 0% fo
 	<li>The report contains the passive voice.</li>
 </ul>
 
-The detailed report instructions can be found [here](https://drive.google.com/open?id=1iQx1nmCRpBY8aI9kFzOEjUdEO-Sd3LdR). (link to document)
+The detailed report instructions can be found [here](https://drive.google.com/open?id=1iQx1nmCRpBY8aI9kFzOEjUdEO-Sd3LdR).
 
 # Presentations 
 Students will present to the Systems Security class twice during the semester as a group. First, students will present the Cyber Kill Chain and explain how it can be used for network defense. Second, students will give a brief overview of their experience in Network Security and present a high-level packet capture analysis. 
