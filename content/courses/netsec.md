@@ -53,6 +53,12 @@ The course is built on the premise that students learn best by actively doing, a
 			<td>sriniket@buffalo.edu</td>
 			<td>@srini</td>
 		</tr>
+			<tr>
+			<td>Sean Manly</td>
+			<td>seanmanl@buffalo.edu</td>
+			<td>@smanly</td>
+		</tr>
+		
 	</tbody>
 </table>
 
