@@ -11,7 +11,7 @@ difficulty: "Intermediate"
 
 active: true
 
-subtext: "Spring 2020 / Online / Daily Sunday - Thursday"
+subtext: "Fall 2020 / Online / Daily Sunday - Thursday"
 ---
 
 # Overview
