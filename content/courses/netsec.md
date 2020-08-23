@@ -240,7 +240,7 @@ The detailed report instructions can be found [here](https://drive.google.com/op
 Students will present to the Systems Security class twice during the semester as a group. First, students will present the Cyber Kill Chain and explain how it can be used for network defense. Second, students will give a brief overview of their experience in Network Security and present a high-level packet capture analysis. 
 
 # Lockdown Competition (5%)
-Students will volunteer for one of the Lockdown competitions during the semester (https://lockdown.ubnetdef.org/). The competition dates will be provided once the semester begins and will be held on a Saturday (usually 9am-5pm). Students will speak to the organizers from SecDev to discuss which positions are available.
+Students will participate in running one of the Lockdown competitions during the semester (https://lockdown.ubnetdef.org/). The competition dates will be provided once the semester begins and will be held on a Saturday (usually 9am-5pm). Students will speak to the organizers from SecDev to discuss which positions are available.
 
 The dates of the presentations will be determined once the semester begins. The presentations should last 10-15 minutes each. 
 
