@@ -23,7 +23,7 @@ This course also exposes students to professional skills, to include: public spe
 
 The course is built on the premise that students learn best by actively doing, and through hands-on experience.
 
-# Instructor
+# Instructors
 <table class="table">
 	<thead>
 		<tr>
@@ -79,7 +79,7 @@ The course tasks consist of building a 3-node network, compiling and installing 
 An example list of tasks to be completed is outlined [here](https://drive.google.com/open?id=17ibwK5LlhMMOg2sYPiEiwedYRUXhaYxf). Please note that these are tasks from a past semester and that tasks vary between semesters.
 
 
-## Daily Sync Meeting (45%)
+# Daily Sync Meetings (60%)
 This class is designed to be extremely hands-on and borrows some of its structure from scrum.
 
 Class meets five days a week (Sunday-Thursday) on Zoom for no more than 10 minutes, at the same time every day. During the meeting, each student answers the following three questions:
@@ -219,7 +219,7 @@ Students get **5** vacation days, where they may skip the daily sync meeting, 
 
 Students that do not attend the daily meeting, and have not previously stated that they had planned on taking a vacation day, will receive no credit for that day.
 
-# Written Reports
+# Written Reports (10%)
 Students are expected to develop professional written reports after completing the assigned Trello tasks. The report will illustrate the student’s work, in detail, and in such a way that a Systems Security student can easily understand and achieve the same results without any intervention from the author.
 
 The report will include an executive summary, which will professionally convey high level points about their work to a non-technical audience. The report will also contain a table of contents, technical analysis, recommended mitigation, and contributing analysts sections. In addition to the report, students will submit a timeline of interesting events, in the form of an Excel spreadsheet. 
@@ -236,8 +236,11 @@ Of note, the following infractions will automatically result in a grade of 0% fo
 
 The detailed report instructions can be found [here](https://drive.google.com/open?id=1iQx1nmCRpBY8aI9kFzOEjUdEO-Sd3LdR).
 
-# Presentations 
+# Presentations (5%)
 Students will present to the Systems Security class twice during the semester as a group. First, students will present the Cyber Kill Chain and explain how it can be used for network defense. Second, students will give a brief overview of their experience in Network Security and present a high-level packet capture analysis. 
+
+# Lockdown Competition (5%)
+Students will volunteer for one of the Lockdown competitions during the semester (https://lockdown.ubnetdef.org/). The competition dates will be provided once the semester begins and will be held on a Saturday (usually 9am-5pm). Students will speak to the organizers from SecDev to discuss which positions are available.
 
 The dates of the presentations will be determined once the semester begins. The presentations should last 10-15 minutes each. 
 
@@ -253,12 +256,24 @@ The dates of the presentations will be determined once the semester begins. The 
 			</thead>
 			<tbody>
 				<tr>
-					<td>Daily Sync Meeting</td>
-					<td>80%</td>
+					<td>Daily Sync Meetings</td>
+					<td>60%</td>
 				</tr>
 				<tr>
 					<td>Task Slides</td>
 					<td>20%</td>
+				</tr>
+								<tr>
+					<td>Written Reports</td>
+					<td>10%</td>
+				</tr>
+								<tr>
+					<td>Presentations</td>
+					<td>5%</td>
+				</tr>
+								<tr>
+					<td>Lockdown</td>
+					<td>5%</td>
 				</tr>
 			</tbody>
 		</table>
