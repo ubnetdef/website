@@ -73,7 +73,7 @@ At a high level, each student has the following objectives to meet:
 6. Effectively communicate in written reports, without using the passive voice, the steps taken and results of the packet analysis (see report outline below).    
 7. Present twice as a group to the Systems Security class.   
     
-# Course Tasks (20% of grade)
+# Course Tasks (20%)
 Students will apply an Agile methodology (similar to Scrum) to accomplish the tasks assigned, utilizing Trello to track all progress throughout the semester. Students must complete the tasks in order before moving on to the next task and submit PowerPoint slides to Dropbox upon completion. Additionally, students will upload a daily screenshot to Dropbox prior to the daily meeting which highlights their progress. Students are also required to update their daily progress and active task on Trello before the daily meeting. All class communication will be conducted through the Mattermost course chat channel and students are encouraged to collaborate and ask questions in this channel. 
 The course tasks consist of building a 3-node network, compiling and installing various tools, and becoming familiar with the tools. Students will construct their network using VirtualBox and Vagrant. The primary packet analysis tools utilized in class are Wireshark, Snort, Zeek (Bro), and Splunk. 
 An example list of tasks to be completed is outlined [here](https://drive.google.com/open?id=17ibwK5LlhMMOg2sYPiEiwedYRUXhaYxf). Please note that these are tasks from a past semester and that tasks vary between semesters.
