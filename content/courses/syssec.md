@@ -249,8 +249,8 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, October 31st, 2020:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Lockdown V9</a>
+				Saturday, October 17th, 2020:
+				<a href="https://lockdown.ubnetdef.org">Lockdown V9</a>
 			</em></td>
 		</tr>
 		<tr>
@@ -292,7 +292,7 @@ Homework will generally be assigned each week, and will likely be based on the t
 		<tr>
 			<td colspan="3"><em>
 				Saturday, December 5th, 2020:
-				<a href="https://lockdown.ubnetdef.org/">High School Lockdown 4</a>
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 4</a>
 			</em></td>
 		</tr>
 		<tr>
