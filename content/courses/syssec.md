@@ -11,7 +11,7 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2020 / Jacobs B30 and Zoome Online Meeting / Thursdays 7:05PM "
+subtext: "Fall 2020 / Zoom Online Meeting / Thursdays 7:05PM - 9:55PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -75,41 +75,41 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>	
 		<tr>
 			<td>Benjamin Bukai</td>
-			<td>(TBA)</td>
+			<td>bjbukai@buffalo.edu</td>
 			<td>bjbukai</td>
 		<tr>
 			<td>Edward Lynch</td>
-			<td>(TBA)</td>
+			<td>edwardly@buffalo.edu</td>
 			<td>edwardly</td>
 		</tr>	
 		<tr>
 			<td>Gursimran Singh</td>
-			<td>(TBA)</td>
+			<td>gursimr2@buffalo.edu</td>
 			<td>gursimr2</td>
 		</tr>
 		<tr>
 			<td>Michael Morgenthal</td>
-			<td>(TBA)</td>
+			<td>mmorgent@buffalo.edu</td>
 			<td>mmorgent</td>
 		</tr>
 		<tr>
 			<td>Nick Richter</td>
-			<td>(TBA)</td>
+			<td>nwrichte@buffalo.edu</td>
 			<td>nickrichter</td>
 		</tr>		
 		<tr>
 			<td>Paul Prawdzik</td>
-			<td>(TBA)</td>
+			<td>paulpraw@buffalo.edu</td>
 			<td>paulprawdz</td>
 		</tr>
 		<tr>
 			<td>Phil Fox</td>
-			<td>(TBA)</td>
+			<td>pcfox@buffalo.edu</td>
 			<td>xphilfox</td>
 		</tr>
 		<tr>
 			<td>Ruben Ocana</td>
-			<td>(TBH)</td>
+			<td>rubenoca@buffalo.edu</td>
 			<td>ruben_ocana</td>
 		<tr>
 			<td>Shreya Lakhkar</td>
@@ -204,9 +204,8 @@ Homework will generally be assigned each week, and will likely be based on the t
 	<thead>
 		<tr>
 			<th style="width: 25%">Week</th>
-			<th style="width: 40%">Topic</th>
-			<th style="width: 25%">Homework</th>
-			<th style="width: 10%">Lecturer</th>
+			<th style="width: 45%">Topic</th>
+			<th style="width: 30%">Homework</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -214,14 +213,12 @@ Homework will generally be assigned each week, and will likely be based on the t
 			<td>Week 1</td>
 			<td>Welcome - 1000 mile overview, vSphere, Mattermos Virtualization </td>
 			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
-			<td>Shreya Lakhkar</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
 			<td>Networking<br/>
 			pfSense Runbook; Topology of pfSense with IPs, Gretzky and LAN + DMZ</td>
 			<td>TBA</td>
-			<td>Michael Morgenthal</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
@@ -284,7 +281,7 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td><b>FALL BREAK<b/></td>
+			<td><b>FALL BREAK!!!<b/></td>
 			<td>TBA</td>
 		</tr>
 		<tr>
