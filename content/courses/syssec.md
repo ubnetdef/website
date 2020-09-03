@@ -11,7 +11,7 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2020 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2020 / Jacobs B30 and Zoome Online Meeting / Thursdays 7:05PM "
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -59,14 +59,9 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>aibek</td>
 		</tr>
 		<tr>
-			<td>Andrew Mavrogeorgis</td>
-			<td>apmavrog@buffalo.edu</td>
-			<td>amavs</td>
-		</tr>
-		<tr>
-			<td>Andrew Shi</td>
-			<td>ashi@buffalo.edu</td>
-			<td>ashi</td>
+			<td>Andrew Hu</td>
+			<td>ahu5@buffalo.edu</td>
+			<td>ahu5</td>
 		</tr>
 		<tr>
 			<td>Anthony Magrene</td>
@@ -74,60 +69,53 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>magrene</td>
 		</tr>
 		<tr>
-			<td>Anup Johnson</td>
-			<td>anupjohn@buffalo.edu</td>
-			<td>anupjohn</td>
-		</tr>
-		<tr>
 			<td>Aritra Paul</td>
 			<td>aritrapa@buffalo.edu</td>
 			<td>aripaul</td>
 		</tr>	
 		<tr>
-			<td>Can Toprak</td>
-			<td>cantopra@buffalo.edu</td>
-			<td>toprak</td>
+			<td>Benjamin Bukai</td>
+			<td>(TBA)</td>
+			<td>bjbukai</td>
+		<tr>
+			<td>Edward Lynch</td>
+			<td>(TBA)</td>
+			<td>edwardly</td>
 		</tr>	
 		<tr>
-			<td>Derek Caudill</td>
-			<td>derekcau@buffalo.edu</td>
-			<td>derekcaudil</td>
+			<td>Gursimran Singh</td>
+			<td>(TBA)</td>
+			<td>gursimr2</td>
 		</tr>
 		<tr>
-			<td>Dewan Islam</td>
-			<td>dewanisl@buffalo.edu</td>
-			<td>dewanisl</td>
+			<td>Michael Morgenthal</td>
+			<td>(TBA)</td>
+			<td>mmorgent</td>
 		</tr>
 		<tr>
-			<td>Jay Chen</td>
-			<td>jaychen@buffalo.edu</td>
-			<td>jay_c</td>
+			<td>Nick Richter</td>
+			<td>(TBA)</td>
+			<td>nickrichter</td>
+		</tr>		
+		<tr>
+			<td>Paul Prawdzik</td>
+			<td>(TBA)</td>
+			<td>paulprawdz</td>
 		</tr>
 		<tr>
-			<td>Lucas Crassidis</td>
-			<td>lucascra@buffalo.edu</td>
-			<td>wildcard</td>
-		</tr>			
-		<tr>
-			<td>Shanelle Ileto</td>
-			<td>sdileto@buffalo.edu</td>
-			<td>shanelleileto</td>
+			<td>Phil Fox</td>
+			<td>(TBA)</td>
+			<td>xphilfox</td>
 		</tr>
+		<tr>
+			<td>Ruben Ocana</td>
+			<td>(TBH)</td>
+			<td>ruben_ocana</td>
 		<tr>
 			<td>Shreya Lakhkar</td>
 			<td>shreyala@buffalo.edu</td>
 			<td>shreya</td>
 		</tr>				
-		<tr>
-			<td>Sriniketh Varma Dasarraju</td>
-			<td>sriniket@buffalo.edu</td>
-			<td>srini</td>
-		</tr>			
-		<tr>
-			<td>Zachary Tenenbaum</td>
-			<td>zatenenb@buffalo.edu</td>
-			<td>zachtenenbaum</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -152,11 +140,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 		<tr>
 			<td>UB VPN</td>
-			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> <br> You need this to be able to connect to vCenter while off campus or off network</td>
+			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> <br> You need this to be able to connect to vCenter while off campus or off network.</td>
 		</tr>
 		<tr>
 			<td>Homework Engine</td>
-			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a></td>
+			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a> This is where you will submit your homework.</td>
 		</tr>
 	</tbody>
 </table>
@@ -216,27 +204,24 @@ Homework will generally be assigned each week, and will likely be based on the t
 	<thead>
 		<tr>
 			<th style="width: 25%">Week</th>
-			<th style="width: 45%">Topic</th>
-			<th style="width: 30%">Homework</th>
+			<th style="width: 40%">Topic</th>
+			<th style="width: 25%">Homework</th>
+			<th style="width: 10%">Lecturer</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Welcome to UBNetDef</td>
+			<td>Welcome - 1000 mile overview, vSphere, Mattermos Virtualization </td>
 			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
+			<td>Shreya Lakhkar</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Virtualization and Networking<br/>
-			Guest Lecture: Stephen James</td>
+			<td>Networking<br/>
+			pfSense Runbook; Topology of pfSense with IPs, Gretzky and LAN + DMZ</td>
 			<td>TBA</td>
-		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, February 8th, 2020:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Lockdown High School v3</a>
-			</em></td>
+			<td>Michael Morgenthal</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
@@ -246,8 +231,8 @@ Homework will generally be assigned each week, and will likely be based on the t
 		<tr>
 			<td>Week 4</td>
 			<td>Linux<br/>
-			Guest Lecture: Aaron Beauregard</td>
-			<td>TBA</td>
+			Guest Lecture: Shanelle Ileto</td>
+			<td>Set up 2 server VMs + 1 client VM + General Linux Stuff</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
@@ -256,32 +241,40 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Ansible</td>
+			<td>Advanced Networking<br/>
+			Guest Lecture: Kevin Cleary</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Guest Lecture</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 8</td>
-			<td>SPRING BREAK!!!</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 9</td>
-			<td>Penetration Testing</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 10</td>
 			<td>Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 11</td>
+			<td colspan="3"><em>
+				Saturday, October 31st, 2020:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Lockdown V9</a>
+			</em></td>
+		</tr>
+		<tr>
+			<td>Week 8</td>
+			<td>Penetration Testing</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 9</td>
+			<td>Ansible</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 10</td>
 			<td>Palo Alto (Next Gen Firewall)</td>
+			<td>Palo Alto, Palo Alto HW (NAT, Security Policy, Zones, Interfaces, Setup)</td>
+		</tr>
+		<tr>
+			<td>Week 11</td>
+			<td>Packet Analysis/Network Security Presentations<br/>
+			    Guest Lecturer: Chris K</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -291,24 +284,24 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>MBA for a day</td>
+			<td><b>FALL BREAK<b/></td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Risk Management/IT Security Controls, Lockdown Review</td>
+			<td>Vulnerability Management/IT Security Controls, Lockdown Review</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, May 2nd, 2020:
-				<a href="https://lockdown.ubnetdef.org/">Lockdown v8</a>
+				Saturday, December 5th, 2020:
+				<a href="https://lockdown.ubnetdef.org/">High School Lockdown 4</a>
 			</em></td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
+			<td>Working period for the final project</td>
 			<td>Final Project</td>
-			<td>TBA</td>
 		</tr>
 	</tbody>
 </table>
