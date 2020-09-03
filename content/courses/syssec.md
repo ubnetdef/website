@@ -211,7 +211,7 @@ Homework will generally be assigned each week, and will likely be based on the t
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Welcome - 1000 mile overview, vSphere, Mattermos Virtualization </td>
+			<td>Welcome - 1000 mile overview, vSphere, Mattermost Virtualization </td>
 			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
 		</tr>
 		<tr>
