@@ -144,7 +144,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		</tr>
 		<tr>
 			<td>Homework Engine</td>
-			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a> This is where you will submit your homework.</td>
+			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a></td>
 		</tr>
 	</tbody>
 </table>
