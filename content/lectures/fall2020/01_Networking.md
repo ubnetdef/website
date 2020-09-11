@@ -1,13 +1,13 @@
 ---
 date: "2020-09-10"
-title: "00 - Networking"
+title: "01 - Networking"
 
 course: "Systems Security"
 semester: "Fall"
 year: 2020
 author: "Michael Morgenthal, Ruben Ocana"
 
-slug: "Networking"
+slug: "networking"
 navbar_active_link: "lectures"
 
 summary: |
