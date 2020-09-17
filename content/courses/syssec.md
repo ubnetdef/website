@@ -98,11 +98,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>nickrichter</td>
 		</tr>		
 		<tr>
-			<td>Paul Prawdzik</td>
-			<td>paulpraw@buffalo.edu</td>
-			<td>paulprawdz</td>
-		</tr>
-		<tr>
 			<td>Phil Fox</td>
 			<td>pcfox@buffalo.edu</td>
 			<td>xphilfox</td>
@@ -141,10 +136,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 		<tr>
 			<td>UB VPN</td>
 			<td><a href="https://www.buffalo.edu/ubit/service-guides/connecting/vpn/computer.html">buffalo.edu/ubit/service-guides/connecting/vpn/computer.html</a> <br> You need this to be able to connect to vCenter while off campus or off network.</td>
-		</tr>
-		<tr>
-			<td>Homework Engine</td>
-			<td><a href="https://homework.ubnetdef.org">homework.ubnetdef.org</a></td>
 		</tr>
 	</tbody>
 </table>
@@ -255,7 +246,8 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Penetration Testing</td>
+			<td>Penetration Testing<br/>
+				Guest Lecturer: Lucas Crassidis</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -281,12 +273,13 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td><b>FALL BREAK!!!<b/></td>
+			<td><b>FALL BREAK!!!<br/></td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Vulnerability Management/IT Security Controls, Lockdown Review</td>
+			<td>Vulnerability Management/IT Security Controls, Lockdown Review<br/>
+				Guest Lecturer: Jay Chen</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
