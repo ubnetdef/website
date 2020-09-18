@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
     Learn about Active Directory, Windows Defender, Powershell and more!
 
-slides: "/slides/fall2020/You_Do_Not_Have_Access"
+slides: "/slides/fall2020/Windows.pdf"
 
 has_page: false
 ---
