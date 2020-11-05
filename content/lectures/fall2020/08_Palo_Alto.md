@@ -3,7 +3,7 @@ date: "2020-11-05"
 title: "08 - Palo Alto Firewall"
 
 course: "Systems Security"
-semester: "Spring"
+semester: "Fall"
 year: 2020
 author: "Aibek Zhylkaidarov"
 
