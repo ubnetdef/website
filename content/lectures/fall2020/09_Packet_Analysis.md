@@ -1,20 +1,20 @@
 ---
 date: "2020-11-12"
-title: "09 - Packet Analysis"
+title: "09 - Digital forensics"
 
 course: "Systems Security"
 semester: "Fall"
 year: 2020
-author: "Chris K"
+author: "Dominic Sellitto"
 
-slug: "Packetanalysis"
+slug: "forensics"
 navbar_active_link: "lectures"
 
 summary: |
-  "Sniff the traffic"
+  "Learn about Digital Forensics from our guest lecturer Dominic Sellitto"
 
 
-slides: "/slides/fall2020/.pdf"
+slides: "/slides/fall2020/wireshark.pdf"
 
 has_page: false
 ---
