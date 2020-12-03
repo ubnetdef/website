@@ -11,7 +11,7 @@ slug: "forensics"
 navbar_active_link: "lectures"
 
 summary: |
-  "Learn about Digital Forensics from our guest lecturer Dominic Sellitto"
+  "Learn about Digital Forensics from our guest lecturer Dominic Sellitto."
 
 
 slides: "/slides/fall2020/wireshark.pdf"
