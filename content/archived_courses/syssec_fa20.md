@@ -1,11 +1,11 @@
 ---
-date: "2020-01-27"
+date: "2020-09-03"
 title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
+semester: "Fall"
 year: 2020
 difficulty: "Beginner"
 
