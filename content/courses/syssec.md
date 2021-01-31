@@ -215,8 +215,7 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>Windows<br/>
-			Guest Lecture: Shanelle Ileto</td>
+			<td>Windows</td>
 			<td>Set up 2 server VMs + 1 client VM + General Linux Stuff</td>
 		</tr>
 		<tr>
