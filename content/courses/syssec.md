@@ -1,5 +1,5 @@
 ---
-date: "2020-01-27"
+date: "2021-01-31"
 title: "Systems Security"
 navbar_active_link: "courses"
 
@@ -11,7 +11,7 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2020 / Zoom Online Meeting / Thursdays 7:05PM - 9:55PM"
+subtext: "Spring 2021 / Zoom Online Meeting / Thursdays 7:05PM - 9:55PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
@@ -67,16 +67,12 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Anthony Magrene</td>
 			<td>ammagren@buffalo.edu</td>
 			<td>magrene</td>
-		</tr>
-		<tr>
-			<td>Aritra Paul</td>
-			<td>aritrapa@buffalo.edu</td>
-			<td>aripaul</td>
 		</tr>	
 		<tr>
 			<td>Benjamin Bukai</td>
 			<td>bjbukai@buffalo.edu</td>
 			<td>bjbukai</td>
+		</tr>
 		<tr>
 			<td>Edward Lynch</td>
 			<td>edwardly@buffalo.edu</td>
@@ -106,6 +102,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Ruben Ocana</td>
 			<td>rubenoca@buffalo.edu</td>
 			<td>ruben_ocana</td>
+		</tr>
 		<tr>
 			<td>Shreya Lakhkar</td>
 			<td>shreyala@buffalo.edu</td>
@@ -183,7 +180,7 @@ All students are required to participate fully in at least three cyber-security 
 
 
 ## Homework Assignments
-Homework will generally be assigned each week, and will likely be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [homework.ubnetdef.org](https://homework.ubnetdef.org/) (the "Homework Engine").
+Homework will generally be assigned each week, and will likely be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
 
 ## Class Schedule
@@ -213,80 +210,77 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Windows</td>
+			<td>Firewalls (Part 1)</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
-			<td>Linux<br/>
+			<td>Windows<br/>
 			Guest Lecture: Shanelle Ileto</td>
 			<td>Set up 2 server VMs + 1 client VM + General Linux Stuff</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
-			<td>Services</td>
+			<td>Linux</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
+			<td>Linux Services</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
 			<td>Advanced Networking<br/>
 			Guest Lecture: Kevin Cleary</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 7</td>
-			<td>Firewalls</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
 			<td colspan="3"><em>
-				Saturday, October 17th, 2020:
-				<a href="https://lockdown.ubnetdef.org">Lockdown V9</a>
+				Saturday, February 6th, 2021:
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
 			</em></td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Penetration Testing<br/>
-				Guest Lecturer: Lucas Crassidis</td>
+			<td>Firewalls (Part 2)</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Ansible</td>
+			<td>Risk Management</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>Palo Alto (Next Gen Firewall)</td>
+			<td>IR (Windows)</td>
 			<td>Palo Alto, Palo Alto HW (NAT, Security Policy, Zones, Interfaces, Setup)</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Packet Analysis/Network Security Presentations<br/>
-			    Guest Lecturer: Chris K</td>
+			<td>Penetration Testing</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Packet Analysis/NetSec Presentations</td>
+			<td>Linux Hardening Techniques</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td><b>FALL BREAK!!!<br/></td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 14</td>
-			<td>Vulnerability Management/IT Security Controls, Lockdown Review<br/>
-				Guest Lecturer: Jay Chen</td>
+			<td>Digital Forensics</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, December 5th, 2020:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 4</a>
+				Saturday, May 5th, 2021:
+				<a href="https://lockdown.ubnetdef.org">Lockdown V10</a>
 			</em></td>
+		</tr>
+		<tr>
+			<td>Week 14</td>
+			<td>Packet Capture / TBD</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
