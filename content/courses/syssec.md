@@ -1,5 +1,5 @@
 ---
-date: "2021-01-31"
+date: "2021-02-01"
 title: "Systems Security"
 navbar_active_link: "courses"
 
@@ -11,10 +11,10 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2021 / Zoom Online Meeting / Thursdays 7:05PM - 9:55PM"
+subtext: "Spring 2021 / Jacobs B30 and Zoom / Thursdays 7:05PM - 9:55PM"
 ---
 # Overview
-During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will be building a small corporate network.
+During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will build and configure a small corporate network.
 
 # Faculty Instructors
 Faculty Instructors are responsible for administering the course in accordance with the University at Buffalo policies and this syllabus.  Faculty Instructors also determine final course grades consistent with the grading policy in this syllabus.
@@ -42,7 +42,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 </table>
 
 # Student Instructors
-Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should go to someone from this list.
+Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should be directed to a student instructor.
 
 <table class="table">
 	<thead>
@@ -163,7 +163,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Course</td>
 		</tr>
         <tr>
-			<td>Effectively Communicate via Written Reports and Presentation Skills</td>
+			<td>Effectively Communicate via Written Reports and Oral Presentations</td>
 			<td>Project &amp; Final Presentation</td>
 		</tr>
 	</tbody>
@@ -172,7 +172,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 
 # Course Requirements
 ## Lectures
-Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructors. Absences due to illness may be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
+Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructors. Absences due to illness will be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional. Please note that a live webcam is required if you are attending class online.
 
 
 ## Competition Participation
@@ -180,7 +180,7 @@ All students are required to participate fully in at least three cyber-security 
 
 
 ## Homework Assignments
-Homework will generally be assigned each week, and will likely be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
+Homework will  be assigned each week, and will be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
 
 ## Class Schedule
@@ -201,6 +201,12 @@ Homework will generally be assigned each week, and will likely be based on the t
 			<td>Week 1</td>
 			<td>Welcome - 1000 mile overview, vSphere, Mattermost Virtualization </td>
 			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, February 6th, 2021:
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
+			</em></td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
@@ -235,12 +241,6 @@ Homework will generally be assigned each week, and will likely be based on the t
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, February 6th, 2021:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
-			</em></td>
-		</tr>
-		<tr>
 			<td>Week 8</td>
 			<td>Firewalls (Part 2)</td>
 			<td>TBA</td>
@@ -272,25 +272,20 @@ Homework will generally be assigned each week, and will likely be based on the t
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, May 5th, 2021:
+				Saturday, May 1st, 2021:
 				<a href="https://lockdown.ubnetdef.org">Lockdown V10</a>
 			</em></td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
 			<td>Packet Capture / TBD</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 15</td>
-			<td>Working period for the final project</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
 </table>
 
 ## Getting Assistance
-The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors are constantly on the server, so it’s likely you will get a response within 24-hours, if not less.  If you do not have access to the UBNetDef chat server, please contact an instructor.
+The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors constantly monitor the chat, so it’s likely you will receive a response within 24-hours, if not sooner.  If you do not have access to the UBNetDef chat server, please contact an instructor.
 
 # Grading Policy
 
@@ -385,7 +380,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 
 # Course Conduct
 ## Academic Integrity
-Students must conduct their coursework in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
+Students must conduct themselves in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
 
 ## Ethics Policy
 As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
