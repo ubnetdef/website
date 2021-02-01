@@ -107,7 +107,12 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Shreya Lakhkar</td>
 			<td>shreyala@buffalo.edu</td>
 			<td>shreya</td>
-		</tr>				
+		</tr>
+		<tr>
+			<td>Orly Stein</td>
+			<td>orlystei@buffalo.edu</td>
+			<td>orlystei</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -200,7 +205,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome - 1000 mile overview, vSphere, Mattermost Virtualization </td>
-			<td>Set up: Mattermost, Homework Engine, Lucidchart, etc.</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -222,7 +227,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
-			<td>Set up 2 server VMs + 1 client VM + General Linux Stuff</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
@@ -253,7 +258,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td>Week 10</td>
 			<td>IR (Windows)</td>
-			<td>Palo Alto, Palo Alto HW (NAT, Security Policy, Zones, Interfaces, Setup)</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
