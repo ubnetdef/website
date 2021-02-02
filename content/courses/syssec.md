@@ -59,15 +59,53 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>aibek</td>
 		</tr>
 		<tr>
+			<td>Anthony Magrene</td>
+			<td>ammagren@buffalo.edu</td>
+			<td>magrene</td>
+		</tr>
+		<tr>
+			<td>Michael Morgenthal</td>
+			<td>mmorgent@buffalo.edu</td>
+			<td>mmorgent</td>
+		</tr>
+		<tr>
+			<td>Nick Richter</td>
+			<td>nwrichte@buffalo.edu</td>
+			<td>nickrichter</td>
+		</tr>
+		<tr>
+			<td>Orly Stein</td>
+			<td>orlystei@buffalo.edu</td>
+			<td>orlystei</td>
+		</tr>
+		<tr>
+			<td>Phil Fox</td>
+			<td>pcfox@buffalo.edu</td>
+			<td>xphilfox</td>
+		</tr>
+		<tr>
+			<td>Shreya Lakhkar</td>
+			<td>shreyala@buffalo.edu</td>
+			<td>shreya</td>
+		</tr>
+	</tbody>
+</table>
+
+# Student Volunteers
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Email</th>
+			<th>Chat Username</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
 			<td>Andrew Hu</td>
 			<td>ahu5@buffalo.edu</td>
 			<td>ahu5</td>
 		</tr>
-		<tr>
-			<td>Anthony Magrene</td>
-			<td>ammagren@buffalo.edu</td>
-			<td>magrene</td>
-		</tr>	
 		<tr>
 			<td>Benjamin Bukai</td>
 			<td>bjbukai@buffalo.edu</td>
@@ -84,34 +122,9 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>gursimr2</td>
 		</tr>
 		<tr>
-			<td>Michael Morgenthal</td>
-			<td>mmorgent@buffalo.edu</td>
-			<td>mmorgent</td>
-		</tr>
-		<tr>
-			<td>Nick Richter</td>
-			<td>nwrichte@buffalo.edu</td>
-			<td>nickrichter</td>
-		</tr>		
-		<tr>
-			<td>Phil Fox</td>
-			<td>pcfox@buffalo.edu</td>
-			<td>xphilfox</td>
-		</tr>
-		<tr>
 			<td>Ruben Ocana</td>
 			<td>rubenoca@buffalo.edu</td>
 			<td>ruben_ocana</td>
-		</tr>
-		<tr>
-			<td>Shreya Lakhkar</td>
-			<td>shreyala@buffalo.edu</td>
-			<td>shreya</td>
-		</tr>
-		<tr>
-			<td>Orly Stein</td>
-			<td>orlystei@buffalo.edu</td>
-			<td>orlystei</td>
 		</tr>
 	</tbody>
 </table>
