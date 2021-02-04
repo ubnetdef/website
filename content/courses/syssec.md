@@ -50,6 +50,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<th>Name</th>
 			<th>Email</th>
 			<th>Chat Username</th>
+			<th>Office Hours</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -57,36 +58,43 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Aibek Zhylkaidarov</td>
 			<td>aibekzhy@buffalo.edu</td>
 			<td>aibek</td>
+			<td>Fridays, 6pm-7pm</td>
 		</tr>
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>ammagren@buffalo.edu</td>
 			<td>magrene</td>
+			<td>Saturdays, 11am-12pm</td>
 		</tr>
 		<tr>
 			<td>Michael Morgenthal</td>
 			<td>mmorgent@buffalo.edu</td>
 			<td>mmorgent</td>
+			<td>Tuesdays, 10am-11am</td>
 		</tr>
 		<tr>
 			<td>Nick Richter</td>
 			<td>nwrichte@buffalo.edu</td>
 			<td>nickrichter</td>
+			<td>Mondays, 12pm-1pm</td>
 		</tr>
 		<tr>
 			<td>Orly Stein</td>
 			<td>orlystei@buffalo.edu</td>
 			<td>orlystei</td>
+			<td>Thursdays, 10am-11am</td>
 		</tr>
 		<tr>
 			<td>Phil Fox</td>
 			<td>pcfox@buffalo.edu</td>
 			<td>xphilfox</td>
+			<td>Wednesdays, 5:30pm-6:30pm</td>
 		</tr>
 		<tr>
 			<td>Shreya Lakhkar</td>
 			<td>shreyala@buffalo.edu</td>
 			<td>shreya</td>
+			<td>Thursdays, 2pm-3pm</td>
 		</tr>
 	</tbody>
 </table>
@@ -194,7 +202,7 @@ Attendance for all lectures is required. One absence or late arrival is permitte
 
 
 ## Competition Participation
-All students are required to participate fully in at least three cyber-security competitions, including two UB Lockdown competitions. Various competitions will be announced throughout the academic semester.
+All students are required to participate fully in at least **two** cyber-security competitions, including two UB Lockdown competitions. Various competitions will be announced throughout the academic semester.
 
 
 ## Homework Assignments
