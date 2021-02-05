@@ -42,7 +42,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 </table>
 
 # Student Instructors
-Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should be directed to a student instructor.
+Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should be directed to a student instructor. Please consult Mattermost or UBLearns for Office Hour meeting information.
 
 <table class="table">
 	<thead>
