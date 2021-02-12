@@ -1,6 +1,6 @@
 ---
 date: "2021-01-21"
-title: "01 - Welcome to Systems Security"
+title: "02 - Intro to Networking"
 
 course: "Systems Security"
 semester: "Spring"
@@ -11,7 +11,7 @@ slug: "Networking"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Introduction"
+  "SYSSEC Networking"
 
 
 slides: "/slides/spring2021/Intro to Networking.pdf"
