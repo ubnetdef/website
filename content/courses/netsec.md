@@ -1,5 +1,5 @@
 ---
-date: "2020-04-24"
+date: "2021-02-15"
 title: "Network Security"
 navbar_active_link: "courses"
 
