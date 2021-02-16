@@ -47,7 +47,7 @@ The course is built on the premise that students learn best by actively doing, a
 			<td>Sean Manly</td>
 			<td>seanmanl@buffalo.edu</td>
 			<td>@smanly</td>
-		</tr>
+		</tr> 
 			<tr>
 			<td>Phil Fox</td>
 			<td>pcfox@buffalo.edu</td>
