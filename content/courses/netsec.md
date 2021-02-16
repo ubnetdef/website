@@ -34,11 +34,6 @@ The course is built on the premise that students learn best by actively doing, a
 	</thead>
 	<tbody>
 		<tr>
-			<td>Chris Crawford</td>
-			<td>christopher.p.crawford@gmail.com</td>
-			<td>@chriscrawford</td>
-		</tr>
-			<tr>
 			<td>Peter Gebura </td>
 			<td>pngebura@buffalo.edu</td>
 			<td>@petergebura</td>
@@ -49,14 +44,19 @@ The course is built on the premise that students learn best by actively doing, a
 			<td>@zachtenenbaum</td>
 		</tr>
 			<tr>
-			<td>Sriniketh Varma Dasarraju</td>
-			<td>sriniket@buffalo.edu</td>
-			<td>@srini</td>
-		</tr>
-			<tr>
 			<td>Sean Manly</td>
 			<td>seanmanl@buffalo.edu</td>
 			<td>@smanly</td>
+		</tr>
+			<tr>
+			<td>Phil Fox</td>
+			<td>pcfox@buffalo.edu</td>
+			<td>@xphilfox</td>
+		</tr>
+			<tr>
+			<td>Chris Crawford</td>
+			<td>christopher.p.crawford@gmail.com</td>
+			<td>@chriscrawford</td>
 		</tr>
 		
 	</tbody>
