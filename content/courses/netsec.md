@@ -14,7 +14,7 @@ active: true
 subtext: "Spring 2021 / Online / Daily Sunday - Thursday"
 ---
 
-# Overview - test
+# Overview
 This course exposes students to the tools and techniques used by information security professionals to analyze computer network traffic and identify suspicious and/or malicious activity within that traffic.
 
 **Upon successful completion of the course, students will have gained real-world experience that will make them highly desirable to employers with open entry-level Security Operations positions.**
