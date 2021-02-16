@@ -6,12 +6,12 @@ navbar_active_link: "courses"
 course: "Network Security"
 course_number: 200
 semester: "Spring"
-year: 2020
+year: 2021
 difficulty: "Intermediate"
 
 active: true
 
-subtext: "Fall 2020 / Online / Daily Sunday - Thursday"
+subtext: "Spring 2021 / Online / Daily Sunday - Thursday"
 ---
 
 # Overview
