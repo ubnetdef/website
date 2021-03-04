@@ -11,7 +11,7 @@ slug: "Networking & Virtualization"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Introduction"
+  Welcome to UBNetDef 2021!
 
 
 slides: "/slides/spring2021/Welcome to System Security.pdf"
