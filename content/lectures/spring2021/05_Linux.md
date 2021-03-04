@@ -11,7 +11,7 @@ slug: "Linux"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Linux"
+  What's a Linux sysadmin's favorite game? - Sudo ku
 
 
 slides: "/slides/spring2021/Linux.pdf"
