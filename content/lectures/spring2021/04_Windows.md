@@ -11,7 +11,7 @@ slug: "Windows"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Windows"
+  Control **ALL** the computers! (except the non-windows ones)
 
 
 slides: "/slides/spring2021/Windows.pdf"
