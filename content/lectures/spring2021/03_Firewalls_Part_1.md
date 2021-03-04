@@ -11,7 +11,7 @@ slug: "Firewalls"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Firewalls"
+  Firewalls
 
 
 slides: "/slides/spring2021/Firewalls.pdf"
