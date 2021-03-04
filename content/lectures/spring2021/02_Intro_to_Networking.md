@@ -11,7 +11,7 @@ slug: "Networking"
 navbar_active_link: "lectures"
 
 summary: |
-  "SYSSEC Networking"
+  Got connections?
 
 
 slides: "/slides/spring2021/Intro to Networking.pdf"
