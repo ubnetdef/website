@@ -5,7 +5,7 @@ title: "00 - 1000 Miles Overview of Cybersecurity"
 course: "Systems Security"
 semester: "Fall"
 year: 2020
-author: "Shreya Lakhar"
+author: "Shreya Lakhkar"
 
 slug: "1000 miles overview of cybersecurity"
 navbar_active_link: "lectures"
