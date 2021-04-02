@@ -7,12 +7,11 @@ semester: "Spring"
 year: 2021
 author: "Aaron Fiebelkorn"
 
-slug: "Understand risk factors and quantative analysis"
+slug: "Risk"
 navbar_active_link: "lectures"
 
 summary: |
   Cyber and quantitative risk management overview
-
 
 slides: "/slides/spring2021/Cyber Risk Management.pdf"
 
