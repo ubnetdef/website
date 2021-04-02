@@ -1,6 +1,6 @@
 ---
 date: "2021-04-01"
-title: "09.1 - "Cyber Risk Management"
+title: "09.1 - Cyber Risk Management"
 
 course: "Systems Security"
 semester: "Spring"
