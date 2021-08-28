@@ -1,17 +1,17 @@
 ---
-date: "2021-02-01"
+date: "2021-08-28"
 title: "Systems Security"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
-year: 2020
+semester: "Fall"
+year: 2021
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2021 / Jacobs B30 and Zoom / Thursdays 7:05PM - 9:55PM"
+subtext: "Fall 2021 / Jacobs B30 / Thursdays 7:05PM - 9:45PM"
 ---
 # Overview
 During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will build and configure a small corporate network.
@@ -55,46 +55,28 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>Aibek Zhylkaidarov</td>
-			<td>aibekzhy@buffalo.edu</td>
-			<td>aibek</td>
-			<td>Fridays, 6pm-7pm</td>
+			<td>Vasu Baldwa</td>
+			<td>vasudevb@buffalo.edu</td>
+			<td>vasudevb</td>
+			<td>Thursdays, 5:30pm-6:30pm</td>
+		</tr>
+		<tr>
+			<td>Lucas Crassidis</td>
+			<td>lucascra@buffalo.edu</td>
+			<td>luke</td>
+			<td>Fridays, 4pm-6pm</td>
 		</tr>
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>ammagren@buffalo.edu</td>
 			<td>magrene</td>
-			<td>Saturdays, 11am-12pm</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>Michael Morgenthal</td>
-			<td>mmorgent@buffalo.edu</td>
-			<td>mmorgent</td>
-			<td>Tuesdays, 10am-11am</td>
-		</tr>
-		<tr>
-			<td>Nick Richter</td>
-			<td>nwrichte@buffalo.edu</td>
-			<td>nickrichter</td>
-			<td>Mondays, 12pm-1pm</td>
-		</tr>
-		<tr>
-			<td>Orly Stein</td>
-			<td>orlystei@buffalo.edu</td>
-			<td>orlystei</td>
-			<td>Thursdays, 10am-11am</td>
-		</tr>
-		<tr>
-			<td>Phil Fox</td>
-			<td>pcfox@buffalo.edu</td>
-			<td>xphilfox</td>
-			<td>Wednesdays, 5:30pm-6:30pm</td>
-		</tr>
-		<tr>
-			<td>Shreya Lakhkar</td>
-			<td>shreyala@buffalo.edu</td>
-			<td>shreya</td>
-			<td>Thursdays, 2pm-3pm</td>
+			<td>Radhika Jois</td>
+			<td>radhikaj@buffalo.edu</td>
+			<td>radhikaj</td>
+			<td>TBD/td>
 		</tr>
 	</tbody>
 </table>
@@ -110,29 +92,24 @@ Student Instructors are responsible for running the class.  Most questions, unle
 	</thead>
 	<tbody>
 		<tr>
-			<td>Andrew Hu</td>
-			<td>ahu5@buffalo.edu</td>
-			<td>ahu5</td>
-		</tr>
-		<tr>
-			<td>Benjamin Bukai</td>
-			<td>bjbukai@buffalo.edu</td>
-			<td>bjbukai</td>
-		</tr>
+			<td>Rashid Abubeker</td>
+			<td>riabubek@buffalo.edu</td>
+			<td>riabubek</td>
+		</tr>	
 		<tr>
 			<td>Edward Lynch</td>
 			<td>edwardly@buffalo.edu</td>
 			<td>edwardly</td>
 		</tr>	
 		<tr>
-			<td>Gursimran Singh</td>
-			<td>gursimr2@buffalo.edu</td>
-			<td>gursimr2</td>
+			<td>John Ryan</td>
+			<td>jpryan2@buffalo.edu</td>
+			<td>jpryan2</td>
 		</tr>
 		<tr>
-			<td>Ruben Ocana</td>
-			<td>rubenoca@buffalo.edu</td>
-			<td>ruben_ocana</td>
+			<td>Orly Stein</td>
+			<td>orlystei@buffalo.edu</td>
+			<td>orlystei</td>
 		</tr>
 	</tbody>
 </table>
@@ -198,11 +175,11 @@ Student Instructors are responsible for running the class.  Most questions, unle
 
 # Course Requirements
 ## Lectures
-Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructors. Absences due to illness will be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional. Please note that a live webcam is required if you are attending class online.
+Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructor. Absences due to illness will be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 
 ## Competition Participation
-All students are required to participate fully in at least **two** cyber-security competitions, including two UB Lockdown competitions. Various competitions will be announced throughout the academic semester.
+All students are required to participate fully in the Lockdown Collegiate Competition (10/16) and the Lockdown High School Competition (12/4) during the semester. Please notify the instructor as soon as possible if you are unable to participate in either competition due to a conflict. Participation in alternative competitions in lieu of this requirement will be considered on a case by case basis.
 
 
 ## Homework Assignments
@@ -225,24 +202,17 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Welcome - 1000 mile overview, vSphere, Mattermost Virtualization </td>
+			<td>Welcome - 1000 mile overview, vSphere, Virtualization</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, February 6th, 2021:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
-			</em></td>
-		</tr>
-		<tr>
 			<td>Week 2</td>
-			<td>Networking<br/>
-			pfSense Runbook; Topology of pfSense with IPs, Gretzky and LAN + DMZ</td>
+			<td>Networking</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
-			<td>Firewalls (Part 1)</td>
+			<td>Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -257,28 +227,35 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Linux Services</td>
+			<td>Services</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Advanced Networking<br/>
-			Guest Lecture: Kevin Cleary</td>
+			<td>Topic TBD<br/>
+			Guest Lecture: Tim Mongan</td>
 			<td>TBA</td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, October 16th, 2021:
+				<a href="https://lockdown.ubnetdef.org">Lockdown V11</a>
+			</em></td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Firewalls (Part 2)</td>
+			<td>Advanced Networking<br/>
+			Guest Lecture: Kevin Cleary</td>
 			<td>TBA</td>
-		</tr>
+		</tr>		
 		<tr>
 			<td>Week 9</td>
-			<td>Risk Management</td>
+			<td>Advanced Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>IR (Windows)</td>
+			<td>Risk Management</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -288,24 +265,31 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Linux Hardening Techniques</td>
+			<td>SecDev Ops<br/>
+			Guest Lecture: Shanelle Ileto</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>Digital Forensics</td>
+			<td>**Thanksgiving Break!!**</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, May 1st, 2021:
-				<a href="https://lockdown.ubnetdef.org">Lockdown V10</a>
-			</em></td>
+			<td>Week 14</td>
+			<td>Digital Forensics</td>
+			<td>Final Project</td>
 		</tr>
 		<tr>
-			<td>Week 14</td>
-			<td>Packet Capture / TBD</td>
-			<td>Final Project</td>
+			<td colspan="3"><em>
+				Saturday, December 4th, 2021:
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
+			</em></td>
+		</tr>
+		</tr>
+		<tr>
+			<td>Week 15</td>
+			<td>Windows Incident Response</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -326,23 +310,19 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 	<tbody>
 		<tr>
 			<td>Attendance</td>
-			<td>15%</td>
+			<td>10%</td>
 		</tr>
 		<tr>
 			<td>Weekly Projects</td>
-			<td>50%</td>
+			<td>65%</td>
 		</tr>
 		<tr>
 			<td>Final Project</td>
 			<td>15%</td>
 		</tr>
 		<tr>
-			<td>Lockdown</td>
-			<td>15%</td>
-		</tr>
-		<tr>
-			<td>Extra Competition</td>
-			<td>5%</td>
+			<td>Competitions (2)</td>
+			<td>10%</td>
 		</tr>
 		<tr>
 			<td><strong>Total</strong></td>
@@ -409,10 +389,10 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 Students must conduct themselves in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
 
 ## Ethics Policy
-As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
+As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal and/or commit a policy violation without knowing you are (eg. port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
 
 ## vCenter Usage
-As a part of Systems Security, you are granted permissions to create Virtual Machines on the vCenter environment, for educational purposes.  Any misuse of the environment will result in the **immediate failure of the student.**
+As a part of the class, you are granted permissions to create Virtual Machines on the vCenter environment for educational purposes specified within the context of the class assignments and projects. Any misuse of the environment may result in the **immediate failure of the student.**
 
 ## Network Logging Disclaimer
 All traffic that occurs within the vCenter environment is being **logged** for analysis purposes. Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
