@@ -76,7 +76,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
-			<td>TBD/td>
+			<td>TBD</td>
 		</tr>
 	</tbody>
 </table>
@@ -179,7 +179,7 @@ Attendance for all lectures is required. One absence or late arrival is permitte
 
 
 ## Competition Participation
-All students are required to participate fully in the Lockdown Collegiate Competition (10/16) and the Lockdown High School Competition (12/4) during the semester. Please notify the instructor as soon as possible if you are unable to participate in either competition due to a conflict. Participation in alternative competitions in lieu of this requirement will be considered on a case by case basis.
+All students are required to participate fully in the Lockdown Collegiate Competition (Oct 16) and the Lockdown High School Competition (Dec 4) during the semester. Please notify the instructor as soon as possible if you are unable to participate in either competition due to a conflict. Participation in alternative competitions in lieu of this requirement will be considered on a case by case basis.
 
 
 ## Homework Assignments
@@ -271,7 +271,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>**Thanksgiving Break!!**</td>
+			<td>Thanksgiving Break!!</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
