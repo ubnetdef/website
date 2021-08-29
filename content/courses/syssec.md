@@ -1,5 +1,5 @@
 ---
-date: "2021-08-28"
+date: "2021-08-29"
 title: "Systems Security"
 navbar_active_link: "courses"
 
@@ -67,16 +67,16 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Fridays, 4pm-6pm</td>
 		</tr>
 		<tr>
-			<td>Anthony Magrene</td>
-			<td>ammagren@buffalo.edu</td>
-			<td>magrene</td>
-			<td>TBD</td>
-		</tr>
-		<tr>
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
 			<td>Mondays, 6:30pm-7:30pm</td>
+		</tr>
+		<tr>
+			<td>Anthony Magrene</td>
+			<td>ammagren@buffalo.edu</td>
+			<td>magrene</td>
+			<td>Tuesdays, 11am-12pm</td>
 		</tr>
 	</tbody>
 </table>
