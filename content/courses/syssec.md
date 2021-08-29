@@ -76,7 +76,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
-			<td>TBD</td>
+			<td>Mondays, 6:30pm-7:30pm</td>
 		</tr>
 	</tbody>
 </table>
