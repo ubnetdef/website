@@ -67,6 +67,12 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Fridays, 4pm-6pm</td>
 		</tr>
 		<tr>
+			<td>Anthony JeanPierre</td>
+			<td>aj76@buffalo.edu</td>
+			<td>ant</td>
+			<td>Wednesdays, 10am-11am</td>
+		</tr>
+		<tr>
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
