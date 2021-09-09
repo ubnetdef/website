@@ -64,7 +64,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Lucas Crassidis</td>
 			<td>lucascra@buffalo.edu</td>
 			<td>luke</td>
-			<td>Fridays, 4pm-6pm</td>
+			<td>Fridays, 4pm-5pm</td>
 		</tr>
 		<tr>
 			<td>Anthony JeanPierre</td>
