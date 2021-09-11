@@ -1,5 +1,5 @@
 ---
-date: "2021-08-28"
+date: "2021-09-02"
 title: "01 - Welcome to Systems Security"
 
 course: "Systems Security"
