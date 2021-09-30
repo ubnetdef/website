@@ -14,7 +14,7 @@ summary: |
   Linux is fun! Huh.
 
 
-slides: "/slides/fall2021/"
+slides: "/slides/fall2021/Linux.pdf"
 
 has_page: false
 ---
