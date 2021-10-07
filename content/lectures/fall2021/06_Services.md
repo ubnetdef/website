@@ -1,5 +1,5 @@
 ---
-date: "2021-10-7"
+date: "2021-10-07"
 title: "06 - Services"
 
 course: "Systems Security"
@@ -7,7 +7,7 @@ semester: "Fall"
 year: 2021
 author: "Lucas Crassidis"
 
-slug: "Services" 
+slug: "services" 
 navbar_active_link: "lectures"
 
 summary: |
