@@ -7,7 +7,7 @@ semester: "Fall"
 year: 2021
 author: "Lucas Crassidis"
 
-slug: "Services"
+slug: "Services" 
 navbar_active_link: "lectures"
 
 summary: |
