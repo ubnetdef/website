@@ -1,4 +1,4 @@
 <?php
-$url = 'https://docs.google.com/forms/d/e/1FAIpQLSdLCv0WJ2HHRVgF9RX14bx9tNSlPcPduqaPNA62sZk5aJuA0A/viewform?usp=sf_link';
+$url = 'https://docs.google.com/forms/d/e/1FAIpQLSeRQv7B-5EhdrL4VyrRtCFTwFJJz6qUfEt51Mns1TujoN1qQg/viewform?usp=sf_link';
 
 header('Location: ' . $url);
