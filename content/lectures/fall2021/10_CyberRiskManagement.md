@@ -14,7 +14,7 @@ summary: |
   Risk. Not just a board game.
 
 
-slides: "/slides/fall2021/CyberRiskManagement.pdf.pdf"
+slides: "/slides/fall2021/CyberRiskManagement.pdf"
 
 has_page: false
 ---
