@@ -271,7 +271,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>SecDev Ops<br/>
+			<td>DevSec Ops<br/>
 			Guest Lecture: Shanelle Ileto</td>
 			<td>TBA</td>
 		</tr>
@@ -283,7 +283,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td>Week 14</td>
 			<td>Digital Forensics</td>
-			<td>Final Project</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -295,7 +295,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td>Week 15</td>
 			<td>Windows Incident Response</td>
-			<td></td>
+			<td>Final Project</td>
 		</tr>
 	</tbody>
 </table>
