@@ -288,7 +288,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 		<tr>
 			<td colspan="3"><em>
 				Saturday, December 4th, 2021:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown 5</a>
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown v6</a>
 			</em></td>
 		</tr>
 		</tr>
