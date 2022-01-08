@@ -42,7 +42,7 @@ Course faculty are responsible for planning, administering and overseeing the co
 </table>
 
 # Student Instructors
-Student Instructors are responsible for implementing the course curriculum and providing extensive support and mentoring to the class participants.  Most questions, unless believed to be sensitive, should be directed to a student instructor. Please consult Mattermost or UBLearns for office hour meeting details.
+Student Instructors are responsible for implementing the course curriculum and providing extensive support and mentoring to the class participants.  Most questions, unless believed to be sensitive, should be directed to a student instructor. Please consult [Mattermost](https://chat.ubnetdef.org) or [UBLearns](https://ublearns.buffalo.edu/) for office hour meeting details.
 
 <table class="table">
 	<thead>
@@ -81,7 +81,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 		<tr>
 			<td>Chandra Neppalli</td>
 			<td>cpneppal@buffalo.edu</td>
-			<td></td>
+			<td>cpneppal</td>
 			<td></td>
 		</tr>
 		<tr>
@@ -160,12 +160,12 @@ Student Instructors are responsible for implementing the course curriculum and p
 </table>
 
 # Student Learning Outcomes
-<table class="table">
+<table class="table" border="0">
 	<thead>
 		<tr>
-			<th align="center">Upon successful completion of this course a student will be able to&hellip;</th>
+			<th align="center">Outcome</th>
 			<th align="center">Assessment</th>
-			<th colspan="2">ABET Outcomes</th>
+			<th colspan="2" align="center">ABET Outcomes</th>
 		</tr>
 	</thead>		
 		<tr>
@@ -200,7 +200,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td align="center">1,6</td>			
 		</tr>
         <tr>
-			<td>Effectively Communicate via Written Reports and Oral Presentations</td>
+			<td>Effectively Communicate via Written Reports</td>
 			<td>Homework  &amp; Project</td>
 			<td align="center">3</td>
 			<td align="center">3</td>			
@@ -213,7 +213,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructor. Absences due to illness will be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
 ## Competition Participation
-All students are required to participate fully in at least two cyber-security competitions, one of which should be a UB Lockdown competition as either a competitor or competition organizer. Various competition opportunities will be announced throughout the semester.
+All students are required to participate fully in at least two cybersecurity competitions, one of which should be a UB Lockdown competition as either a competitor or competition organizer. Various competition opportunities will be announced throughout the semester.
 
 ## Homework Assignments
 Homework will  be assigned each week, and will be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
