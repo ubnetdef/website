@@ -160,20 +160,18 @@ Student Instructors are responsible for implementing the course curriculum and p
 </table>
 
 # Student Learning Outcomes
-<table class="table" border="0">
+<table class="table">
 	<thead>
 		<tr>
-			<th align="center">Outcome</th>
-			<th align="center">Assessment</th>
-			<th colspan="2" align="center">ABET Outcomes</th>
+			<th valign="center" rowspan="2">Outcome</th>
+			<th valign="center" rowspan="2">Assessment</th>
+			<th colspan="2" align="center">ABET Mapping</th>
 		</tr>
-	</thead>		
-		<tr>
-			<td></td>
-			<td></td>
-			<td align="center">CAC</td>
-			<td align="center">EAC</td>
-		</tr>
+      		<tr>
+        		<th align="center">CAC</th>
+       			<th align="center">EAC</th>
+        	</tr>
+	</thead>
 	<tbody>
 		<tr>
 			<td>Learn and Apply Basic Security Concepts</td>
@@ -199,7 +197,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td align="center">1</td>
 			<td align="center">1,6</td>			
 		</tr>
-        <tr>
+        	<tr>
 			<td>Effectively Communicate via Written Reports</td>
 			<td>Homework  &amp; Project</td>
 			<td align="center">3</td>
