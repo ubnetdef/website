@@ -163,14 +163,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 <table class="table">
 	<thead>
 		<tr>
-			<th valign="center" rowspan="2">Outcome</th>
-			<th valign="center" rowspan="2">Assessment</th>
-			<th colspan="2" align="center">ABET Mapping</th>
+			<th>Outcome</th>
+			<th>Assessment</th>
+			<th align="center">ABET CAC</th>
+			<th align="center">ABET EAC</th>
 		</tr>
-      		<tr>
-        		<td align="center">CAC</td>
-       			<td align="center">EAC</td>
-        	</tr>
 	</thead>
 	<tbody>
 		<tr>
