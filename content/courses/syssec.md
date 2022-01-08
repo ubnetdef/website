@@ -168,8 +168,8 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<th colspan="2" align="center">ABET Mapping</th>
 		</tr>
       		<tr>
-        		<th align="center">CAC</th>
-       			<th align="center">EAC</th>
+        		<td align="center">CAC</td>
+       			<td align="center">EAC</td>
         	</tr>
 	</thead>
 	<tbody>
