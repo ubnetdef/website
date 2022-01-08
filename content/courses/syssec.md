@@ -1,23 +1,23 @@
 ---
-date: "2021-08-29"
-title: "Systems Security"
+date: "2022-01-08"
+title: "Systems Security (MGS427/CSE427)"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Fall"
-year: 2021
+semester: "Spring"
+year: 2022
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2021 / Jacobs B30 / Thursdays 7:05PM - 9:45PM"
+subtext: "Spring 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
-During this introductory course, geared for students new to cybersecurity, students will be introduced to fundamental security topics.  Students will critically examine concepts such as basic networking, system administration, team dynamics and system security as well as identifying and applying basic security hardening techniques.  Students will gain practical experience through a virtualized lab environment where they will build and configure a small corporate network.
+During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
 
-# Faculty Instructors
-Faculty Instructors are responsible for administering the course in accordance with the University at Buffalo policies and this syllabus.  Faculty Instructors also determine final course grades consistent with the grading policy in this syllabus.
+# Faculty
+Course faculty are responsible for planning, administering and overseeing the course in accordance with the University at Buffalo policies and this syllabus.  Faculty also determine final course grades consistent with the grading policy in this syllabus.
 
 <table class="table">
 	<thead>
@@ -42,7 +42,7 @@ Faculty Instructors are responsible for administering the course in accordance w
 </table>
 
 # Student Instructors
-Student Instructors are responsible for running the class.  Most questions, unless believed to be sensitive, should be directed to a student instructor. Please consult Mattermost or UBLearns for Office Hour meeting information.
+Student Instructors are responsible for implementing the course curriculum and providing extensive support and mentoring to the class participants.  Most questions, unless believed to be sensitive, should be directed to a student instructor. Please consult Mattermost or UBLearns for office hour meeting details.
 
 <table class="table">
 	<thead>
@@ -58,32 +58,50 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>Vasu Baldwa</td>
 			<td>vasudevb@buffalo.edu</td>
 			<td>vasudevb</td>
-			<td>Thursdays, 5:30pm-6:30pm</td>
+			<td></td>
 		</tr>
 		<tr>
-			<td>Lucas Crassidis</td>
-			<td>lucascra@buffalo.edu</td>
-			<td>luke</td>
-			<td>Fridays, 4pm-5pm</td>
-		</tr>
-		<tr>
-			<td>Anthony JeanPierre</td>
-			<td>aj76@buffalo.edu</td>
-			<td>ant</td>
-			<td>Wednesdays, 10am-11am</td>
+			<td>John Duffy</td>
+			<td>jaduffy@buffalo.edu</td>
+			<td>jaduffy</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
-			<td>Mondays, 7pm-8pm</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>ammagren@buffalo.edu</td>
 			<td>magrene</td>
-			<td>Tuesdays, 11am-12pm</td>
+			<td></td>
 		</tr>
+		<tr>
+			<td>Chandra Neppalli</td>
+			<td>cpneppal@buffalo.edu</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Alex Skowronski</td>
+			<td>adskowro@buffalo.edu</td>
+			<td>adskowro</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Michael Smith</td>
+			<td>msmith69@buffalo.edu</td>
+			<td>msmith69</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ethan Viapiano</td>
+			<td>ethanvia@buffalo.edu</td>
+			<td>ethanvia</td>
+			<td></td>
+		</tr>		
 	</tbody>
 </table>
 
@@ -112,11 +130,6 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td>jpryan2@buffalo.edu</td>
 			<td>jpryan2</td>
 		</tr>
-		<tr>
-			<td>Orly Stein</td>
-			<td>orlystei@buffalo.edu</td>
-			<td>orlystei</td>
-		</tr>
 	</tbody>
 </table>
 
@@ -128,7 +141,7 @@ Student Instructors are responsible for running the class.  Most questions, unle
 			<td><a href="https://ubnetdef.org/courses/syssec">ubnetdef.org/courses/syssec</a></td>
 		</tr>
 		<tr>
-			<td>Chat Channel</td>
+			<td>Mattermost Chat</td>
 			<td><a href="https://chat.ubnetdef.org">chat.ubnetdef.org</a></td>
 		</tr>
 		<tr>
@@ -150,47 +163,63 @@ Student Instructors are responsible for running the class.  Most questions, unle
 <table class="table">
 	<thead>
 		<tr>
-			<th>Upon successful completion of this course a student will be able to&hellip;</th>
-			<th>Assessment</th>
+			<th align="center">Upon successful completion of this course a student will be able to&hellip;</th>
+			<th align="center">Assessment</th>
+			<th colspan="2">ABET Outcomes</th>
 		</tr>
-	</thead>
+	</thead>		
+		<tr>
+			<td></td>
+			<td></td>
+			<td align="center">CAC</td>
+			<td align="center">EAC</td>
+		</tr>
 	<tbody>
 		<tr>
-			<td>Learn Basic Security Concepts and Topics</td>
-			<td>Course</td>
+			<td>Learn and Apply Basic Security Concepts</td>
+			<td>Homework &amp; Project</td>
+			<td align="center">1</td>
+			<td align="center">1,7</td>
 		</tr>
 		<tr>
 			<td>Defend a Machine from Real-time Attackers</td>
-			<td>Course &amp; Competitions</td>
+			<td>Competitions</td>
+			<td align="center">1,2,5</td>
+			<td align="center">1,2,5,6,7</td>
 		</tr>
 		<tr>
 			<td>Work Effectively in a Team</td>
-			<td>Project &amp; Competitions</td>
+			<td>Competitions</td>
+			<td align="center">5</td>
+			<td align="center">5</td>
 		</tr>
 		<tr>
 			<td>Identify Threats and Vulnerabilities of Systems</td>
-			<td>Course</td>
+			<td>Homework &amp; Competitions</td>
+			<td align="center">1</td>
+			<td align="center">1,6</td>			
 		</tr>
         <tr>
 			<td>Effectively Communicate via Written Reports and Oral Presentations</td>
-			<td>Project &amp; Final Presentation</td>
+			<td>Homework  &amp; Project</td>
+			<td align="center">3</td>
+			<td align="center">3</td>			
 		</tr>
 	</tbody>
 </table>
-
 
 # Course Requirements
 ## Lectures
 Attendance for all lectures is required. One absence or late arrival is permitted without penalty. Each additional absence may result in a letter grade reduction in the course. Students arriving late or unprepared may also receive an equal or lesser penalty at the discretion of the instructor. Absences due to illness will be excused if the instructor is notified in advance, and the illness is documented by a physician or healthcare professional.
 
-
 ## Competition Participation
-All students are required to participate fully in the Lockdown Collegiate Competition (Oct 16) and the Lockdown High School Competition (Dec 4) during the semester. Please notify the instructor as soon as possible if you are unable to participate in either competition due to a conflict. Participation in alternative competitions in lieu of this requirement will be considered on a case by case basis.
-
+All students are required to participate fully in at least two cyber-security competitions, one of which should be a UB Lockdown competition as either a competitor or competition organizer. Various competition opportunities will be announced throughout the semester.
 
 ## Homework Assignments
 Homework will  be assigned each week, and will be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
+## Final Project
+An individual final project will be assigned at the end of the semester, which will require you to apply all the material covered during the semester.  This will involve deploying, configuring, securing and assessing a small-scale enterprise network of Linux and Windows systems.
 
 ## Class Schedule
 <div class="alert alert-info">
@@ -208,7 +237,7 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 	<tbody>
 		<tr>
 			<td>Week 1</td>
-			<td>Welcome - 1000 mile overview, vSphere, Virtualization</td>
+			<td>Welcome - 1000-mile overview, vSphere, Virtualization</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -217,91 +246,96 @@ Homework will  be assigned each week, and will be based on the topics in the [cl
 			<td>TBA</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, February 12th, 2022:
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown v7</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 3</td>
-			<td>Firewalls</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 4</td>
-			<td>Windows</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 5</td>
-			<td>Linux</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 6</td>
-			<td>Services</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 7</td>
 			<td>Topic TBD<br/>
 			Guest Lecture: Tim Mongan</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, October 16th, 2021:
-				<a href="https://lockdown.ubnetdef.org">Lockdown V11</a>
-			</em></td>
+			<td>Week 4</td>
+			<td>Firewalls</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 5</td>
+			<td>Windows</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 6</td>
+			<td>Windows Incident Response</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
+			<td>Linux</td>
+			<td>TBA</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
+			<td>Spring Break</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Week 9</td>
+			<td>Services</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, April 2nd, 2022:
+				<a href="https://lockdown.ubnetdef.org">Internal Lockdown v1</a>
+			</em></td>
+		</tr>			
+		<tr>
+			<td>Week 10</td>
 			<td>Advanced Networking<br/>
 			Guest Lecture: Kevin Cleary</td>
 			<td>TBA</td>
 		</tr>		
 		<tr>
-			<td>Week 9</td>
+			<td>Week 11</td>
 			<td>Advanced Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 10</td>
+			<td>Week 12</td>
 			<td>Risk Management</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 11</td>
+			<td>Week 13</td>
 			<td>Penetration Testing</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 12</td>
-			<td>DevSec Ops<br/>
-			Guest Lecture: Shanelle Ileto</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 13</td>
-			<td>Thanksgiving Break!!</td>
-			<td>TBA</td>
-		</tr>
+			<td colspan="3"><em>
+				Saturday, April 30th, 2022:
+				<a href="https://lockdown.ubnetdef.org">Lockdown v12</a>
+			</em></td>
+		</tr>		
 		<tr>
 			<td>Week 14</td>
 			<td>Digital Forensics</td>
 			<td>TBA</td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, December 4th, 2021:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown v6</a>
-			</em></td>
-		</tr>
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>Windows Incident Response</td>
+			<td>TBA</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
 </table>
 
 ## Getting Assistance
-The best way to request assistance is to ask on the `Systems Security` channel on UBNetDef’s chat server. The instructors and mentors constantly monitor the chat, so it’s likely you will receive a response within 24-hours, if not sooner.  If you do not have access to the UBNetDef chat server, please contact an instructor.
+The best way to request assistance is to ask on the `Systems Security` channel on the UBNetDef chat server. The instructors and mentors constantly monitor the chat, so it’s likely you will receive a response within 24-hours, if not sooner.  If you do not have access to the UBNetDef chat server, please contact an instructor.
 
 # Grading Policy
 
@@ -390,15 +424,23 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 	</tbody>
 </table>
 
-# Course Conduct
+## Incomplete Grades
+In certain cases, students may be eligible to receive a temporary incomplete (‘I’) grade. A grade of incomplete (‘I’) indicates that additional course work is required to fulfill the requirements of a given course. Students may only be given an ‘I’ grade if they have a passing average in coursework that has been completed and have well-defined parameters to complete the course requirements that could result in a grade better than the default grade. An ‘I’ grade may not be assigned to a student who did not attend the course. Detailed information is available from the [Undergraduate Course Catalog](https://catalog.buffalo.edu/policies/explanation.html).
+
+# Course Policies
+## Classroom Conduct and Professionalism
+Students are expected to exhibit professionalism, treat others with respect, and abide by the [UB Classroom Conduct Policy](https://catalog.buffalo.edu/policies/obstruction.html).
+
 ## Academic Integrity
 Students must conduct themselves in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
 
 ## Ethics Policy
-As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal and/or commit a policy violation without knowing you are (eg. port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity and acted upon with severe consequences if such privileges are abused.** You are being given an opportunity to learn, please do not waste it.
+As a student in cyber security, you are learning tools and given resources that are meant to help protect yourself and others. However, these tools and resources can also be used in malicious or illegal ways. It is imperative that while you are a representative of this class, and even well after, you perform any security education or training strictly inside our internal environment or a controlled and contained environment that you have prepared for yourself. Any activity outside of our internal environment is outside of our control and protection. If you are not sure what you’re doing, it is very easy to do something illegal without even knowing you are (even something as simple as port scanning outside our internal network). If you are unsure if something is allowed or not, contact one of the instructors or mentors. **All network traffic inside our infrastructure will be monitored for malicious or suspicious activity.** You are being given an opportunity to learn, so please do not waste it.
 
-## vCenter Usage
-As a part of the class, you are granted permissions to create Virtual Machines on the vCenter environment for educational purposes specified within the context of the class assignments and projects. Any misuse of the environment may result in the **immediate failure of the student.**
+## vCenter Usage and Network Logging Notification
+As a part of Systems Security, you are granted permissions to create Virtual Machines on the vCenter environment for educational purposes. Any misuse of the environment will result in immediate failure of the course.
 
-## Network Logging Disclaimer
-All traffic that occurs within the vCenter environment is being **logged** for analysis purposes. Traffic captures (pcaps) may be shared with other individuals within UBNetDef for educational purposes only. **We highly discourage logging into any personal or social networking websites on a Virtual Machine hosted in the vCenter environment.**
+**All traffic within the vCenter environment is logged.** Traffic captures may be shared with other individuals within UBNetDef for educational purposes. We highly discourage logging into any personal websites on a Virtual Machine hosted in the vCenter environment.
+
+## Accessibility Resources
+If you require reasonable accommodations to participate in this course, please contact the Office of Accessibility Resources in 60 Capen Hall, 716-645-2608 and also the instructor of this course during the first week of class.
