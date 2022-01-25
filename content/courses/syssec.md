@@ -133,6 +133,38 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</tbody>
 </table>
 
+# Alumni Volunteers
+<table class="table">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Chat Username</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Aaron Fiebelkorn</td>
+			<td>aaron</td>
+		</tr>	
+		<tr>
+			<td>Phil Fox</td>
+			<td>xphilfox</td>
+		</tr>	
+		<tr>
+			<td>Stephen James</td>
+			<td>stephenorjames</td>
+		</tr>
+		<tr>
+			<td>Shreya Lakhkar</td>
+			<td>shreya</td>
+		</tr>
+		<tr>
+			<td>Aibek Zhylkaidarov</td>
+			<td>aibek</td>
+		</tr>			
+	</tbody>
+</table>
+
 # Course Resources
 <table class="table">
 	<tbody>
@@ -248,28 +280,27 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 3</td>
-			<td>Topic TBD<br/>
-			Guest Lecture: Tim Mongan</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 4</td>
 			<td>Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 5</td>
+			<td>Week 4</td>
 			<td>Windows</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 6</td>
+			<td>Week 5</td>
 			<td>Windows Incident Response</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 7</td>
+			<td>Week 6</td>
 			<td>Linux</td>
+			<td>TBA</td>
+		</tr>
+		<tr>
+			<td>Week 7</td>
+			<td>Services</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -279,7 +310,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Services</td>
+			<td>Advanced Networking<br/>
+			Guest Lecture: Kevin Cleary</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -287,28 +319,27 @@ An individual final project will be assigned at the end of the semester, which w
 				Saturday, April 2nd, 2022:
 				<a href="https://lockdown.ubnetdef.org">Internal Lockdown v1</a>
 			</em></td>
-		</tr>			
-		<tr>
-			<td>Week 10</td>
-			<td>Advanced Networking<br/>
-			Guest Lecture: Kevin Cleary</td>
-			<td>TBA</td>
 		</tr>		
 		<tr>
-			<td>Week 11</td>
+			<td>Week 10</td>
 			<td>Advanced Firewalls</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 12</td>
+			<td>Week 11</td>
 			<td>Risk Management</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 13</td>
+			<td>Week 12</td>
 			<td>Penetration Testing</td>
 			<td>TBA</td>
 		</tr>
+		<tr>
+			<td>Week 13</td>
+			<td>TBA</td>
+			<td>TBA</td>
+		</tr>		
 		<tr>
 			<td colspan="3"><em>
 				Saturday, April 30th, 2022:
