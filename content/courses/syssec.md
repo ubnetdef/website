@@ -58,49 +58,43 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Vasu Baldwa</td>
 			<td>vasudevb@buffalo.edu</td>
 			<td>vasudevb</td>
-			<td></td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>John Duffy</td>
 			<td>jaduffy@buffalo.edu</td>
 			<td>jaduffy</td>
-			<td></td>
+			<td>Thursday 5:00-6:00</td>
 		</tr>
 		<tr>
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
-			<td></td>
+			<td>Monday 10:30-11:30</td>
 		</tr>
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>ammagren@buffalo.edu</td>
 			<td>magrene</td>
-			<td></td>
+			<td>Friday 11:30-12:30</td>
 		</tr>
 		<tr>
 			<td>Chandra Neppalli</td>
 			<td>cpneppal@buffalo.edu</td>
 			<td>cpneppal</td>
-			<td></td>
+			<td>Friday 12:00-1:00</td>
 		</tr>
 		<tr>
 			<td>Alex Skowronski</td>
 			<td>adskowro@buffalo.edu</td>
 			<td>adskowro</td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>Michael Smith</td>
-			<td>msmith69@buffalo.edu</td>
-			<td>msmith69</td>
-			<td></td>
+			<td>Tuesday 10:00-11:00</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td></td>
+			<td>Thursday 2:00-3:00</td>
 		</tr>		
 	</tbody>
 </table>
