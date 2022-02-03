@@ -14,7 +14,7 @@ summary: |
   Welcome to UBNetDef Spring 2022!
 
 
-slides: "/slides/fall2021/WelcomeToSystemSecurity.pdf"
+slides: "/slides/spring2022/WelcomeToSystemSecurity.pdf"
 
 has_page: false
 ---
