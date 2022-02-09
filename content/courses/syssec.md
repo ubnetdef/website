@@ -321,21 +321,16 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 11</td>
-			<td>Advanced Firewalls</td>
-			<td>TBA</td>
-		</tr>
-		<tr>
-			<td>Week 12</td>
 			<td>Risk Management</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 13</td>
+			<td>Week 12</td>
 			<td>Penetration Testing</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
-			<td>Week 14</td>
+			<td>Week 13</td>
 			<td>TBA</td>
 			<td>TBA</td>
 		</tr>		
@@ -346,13 +341,13 @@ An individual final project will be assigned at the end of the semester, which w
 			</em></td>
 		</tr>		
 		<tr>
-			<td>Week 15</td>
+			<td>Week 14</td>
 			<td>Digital Forensics</td>
 			<td>TBA</td>
 		</tr>
 		</tr>
 		<tr>
-			<td>Week 16</td>
+			<td>Week 15</td>
 			<td>TBA</td>
 			<td>Final Project</td>
 		</tr>
