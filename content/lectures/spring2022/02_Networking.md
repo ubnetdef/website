@@ -1,5 +1,5 @@
 ---
-date: "2022-02-010"
+date: "2022-02-10"
 title: "02 - Networking"
 
 course: "Systems Security"
@@ -11,7 +11,7 @@ slug: "Networking"
 navbar_active_link: "lectures"
 
 summary: |
-  Let's Talk
+  Let's Talk!
 
 
 slides: "/slides/spring2022/Networking.pdf"
