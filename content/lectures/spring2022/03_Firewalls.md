@@ -11,7 +11,7 @@ slug: "Firewalls"
 navbar_active_link: "lectures"
 
 summary: |
-  Let's Talk!
+  You can't pass my wall of fire!
 
 
 slides: "/slides/spring2022/To Post- Week03 - Firewalls .pptx.pdf"
