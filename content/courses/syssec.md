@@ -79,12 +79,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Friday 11:30-12:30</td>
 		</tr>
 		<tr>
-			<td>Chandra Neppalli</td>
-			<td>cpneppal@buffalo.edu</td>
-			<td>cpneppal</td>
-			<td>Friday 12:00-1:00</td>
-		</tr>
-		<tr>
 			<td>Alex Skowronski</td>
 			<td>adskowro@buffalo.edu</td>
 			<td>adskowro</td>
@@ -119,6 +113,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>edwardly@buffalo.edu</td>
 			<td>edwardly</td>
 		</tr>	
+		<tr>
+			<td>Chandra Neppalli</td>
+			<td>cpneppal@buffalo.edu</td>
+			<td>cpneppal</td>
+		</tr>		
 		<tr>
 			<td>John Ryan</td>
 			<td>jpryan2@buffalo.edu</td>
