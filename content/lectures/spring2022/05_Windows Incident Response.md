@@ -1,6 +1,6 @@
 ---
 date: "2022-03-03"
-title: "05-Windows Incident Response"
+title: "05 - Windows Incident Response"
 
 course: "Systems Security"
 semester: "Spring"
