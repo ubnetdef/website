@@ -1,5 +1,5 @@
 ---
-date: "2022-03-03"
+date: "2022-03-10"
 title: "06 - Linux"
 
 course: "Systems Security"
