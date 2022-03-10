@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Fun times with Linux!
 
-slides: "/slides/spring2022/Linux.pdf"
+slides: "/slides/spring2022/Linux(1).pdf"
 
 has_page: false
 ---
