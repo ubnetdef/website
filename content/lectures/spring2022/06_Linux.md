@@ -5,7 +5,7 @@ title: "06 - Linux"
 course: "Systems Security"
 semester: "Spring"
 year: 2022
-author: "Vasu Baldwa"
+author: "Vasu Baldwa and Ethan Viapiano"
 
 slug: "Linux"
 navbar_active_link: "lectures"
