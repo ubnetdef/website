@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   NetDef has the best service around!
 
-slides: "/slides/spring2022/Service.pdf"
+slides: "/slides/spring2022/Services.pdf"
 
 has_page: false
 ---
