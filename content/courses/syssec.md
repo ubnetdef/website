@@ -258,12 +258,12 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome - 1000-mile overview, vSphere, Virtualization</td>
-			<td>TBA</td>
+			<td>HW01</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
 			<td>Networking</td>
-			<td>TBA</td>
+			<td>HW02</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -274,27 +274,27 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 3</td>
 			<td>Firewalls</td>
-			<td>TBA</td>
+			<td>HW03</td>
 		</tr>
 		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
-			<td>TBA</td>
+			<td>HW04</td>
 		</tr>
 		<tr>
 			<td>Week 5</td>
 			<td>Windows Incident Response</td>
-			<td>TBA</td>
+			<td>HW05</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
 			<td>Linux</td>
-			<td>TBA</td>
+			<td>HW06</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
 			<td>Advanced Firewalls</td>
-			<td>TBA</td>
+			<td>HW07</td>
 		</tr>
 		<tr>
 			<td>Week 8</td>
@@ -304,13 +304,13 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 9</td>
 			<td>Services</td>
-			<td>TBA</td>
+			<td>HW09</td>
 		</tr>
 		<tr>
 			<td>Week 10</td>
 			<td>Advanced Networking<br/>
 			Guest Lecture: Kevin Cleary</td>
-			<td>TBA</td>
+			<td>HW10</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -320,7 +320,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 11</td>
-			<td>Risk Management</td>
+			<td>Risk Management<br/>
+			Guest Lecture: Phil Fox</td>
 			<td>TBA</td>
 		</tr>
 		<tr>
@@ -330,7 +331,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>TBA</td>
+			<td>Digital Forensics<br/>
+			Guest Lecture: Dominic Sellitto</td>
 			<td>TBA</td>
 		</tr>		
 		<tr>
@@ -341,7 +343,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 14</td>
-			<td>Digital Forensics</td>
+			<td>Remedial Lockdown</td>
 			<td>TBA</td>
 		</tr>
 		</tr>
