@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Risk. Not just a board game.
 
-slides: "/slides/spring2022/11 - Risk Analysis.pdf"
+slides: "/slides/spring2022/11 - Risk Analysis and Management.pdf"
 
 has_page: false
 ---
