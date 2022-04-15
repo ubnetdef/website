@@ -322,7 +322,7 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>Week 11</td>
 			<td>Risk Management<br/>
 			Guest Lecture: Phil Fox</td>
-			<td>TBA</td>
+			<td>HW11</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
