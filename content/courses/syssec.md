@@ -327,7 +327,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 12</td>
 			<td>Penetration Testing</td>
-			<td>TBA</td>
+			<td>HW12</td>
 		</tr>
 		<tr>
 			<td>Week 13</td>
