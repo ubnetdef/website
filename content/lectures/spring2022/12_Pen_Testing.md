@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   l00k m0m, 1'm 4 h4ck3r n0w
 
-slides: "/slides/spring2022/Penetration_Testing.pdf"
+slides: "/slides/spring2022/PenTest.pdf"
 
 has_page: false
 ---
