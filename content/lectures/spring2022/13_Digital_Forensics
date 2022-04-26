@@ -7,13 +7,13 @@ semester: "Spring"
 year: 2022
 author: "Dominic Sellitto"
 
-slug: "PenTesting"
+slug: "Digital Forensics"
 navbar_active_link: "lectures"
 
 summary: |
   Can you find the error.
 
-slides: "/slides/spring2022/.pdf"
+slides: "/slides/spring2022/Digital Forensics.pdf"
 
 has_page: false
 ---
