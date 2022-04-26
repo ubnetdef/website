@@ -333,7 +333,7 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>Week 13</td>
 			<td>Digital Forensics<br/>
 			Guest Lecture: Dominic Sellitto</td>
-			<td>TBA</td>
+			<td>HW13</td>
 		</tr>		
 		<tr>
 			<td colspan="3"><em>
