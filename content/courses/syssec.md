@@ -343,7 +343,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 14</td>
-			<td>Remedial Lockdown</td>
+			<td>Lockdown: The Blue Teams Strike back!</td>
 			<td>TBA</td>
 		</tr>
 		</tr>
