@@ -349,7 +349,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>TBA</td>
+			<td>Resume Advice</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
