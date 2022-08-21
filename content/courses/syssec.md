@@ -5,7 +5,7 @@ navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
+semester: "Fall"
 year: 2022
 difficulty: "Beginner"
 
