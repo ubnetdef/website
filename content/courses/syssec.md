@@ -11,7 +11,7 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
