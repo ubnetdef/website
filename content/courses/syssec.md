@@ -55,41 +55,36 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</thead>
 	<tbody>
 		<tr>
-			<td>Vasu Baldwa</td>
-			<td>vasudevb@buffalo.edu</td>
-			<td>vasudevb</td>
+			<td>Raymond Harenza</td>
+			<td>rwharanz@buffalo.edu</td>
+			<td>rwharenz</td>
 			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>John Duffy</td>
-			<td>jaduffy@buffalo.edu</td>
-			<td>jaduffy</td>
-			<td>Thursday 5:00-6:00</td>
+			<td>Phuong Quynh Nguyen</td>
+			<td>pnnguyen@buffalo.edu</td>
+			<td>pnnguyen</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>Radhika Jois</td>
-			<td>radhikaj@buffalo.edu</td>
-			<td>radhikaj</td>
-			<td>Monday 10:30-11:30</td>
+			<td>Griffin Refol</td>
+			<td>grefol@buffalo.edu</td>
+			<td>grefol</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>Anthony Magrene</td>
-			<td>ammagren@buffalo.edu</td>
-			<td>magrene</td>
-			<td>Friday 11:30-12:30</td>
-		</tr>
-		<tr>
-			<td>Alex Skowronski</td>
-			<td>adskowro@buffalo.edu</td>
-			<td>adskowro</td>
-			<td>Tuesday 10:00-11:00</td>
+			<td>John Ryan</td>
+			<td>jpryan2@buffalo.edu</td>
+			<td>jpryan2</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>Thursday 2:00-3:00</td>
-		</tr>		
+			<td>TBD</td>
+		</tr>
+		
 	</tbody>
 </table>
 
@@ -104,24 +99,19 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</thead>
 	<tbody>
 		<tr>
-			<td>Rashid Abubeker</td>
-			<td>riabubek@buffalo.edu</td>
-			<td>riabubek</td>
+			<td>Radhika Joise</td>
+			<td>radhikaj@buffalo.edu</td>
+			<td>radhikaj</td>
 		</tr>	
 		<tr>
-			<td>Edward Lynch</td>
-			<td>edwardly@buffalo.edu</td>
-			<td>edwardly</td>
+			<td>Lucas Crassidis</td>
+			<td>lucascra@buffalo.edu</td>
+			<td>luke</td>
 		</tr>	
-		<tr>
-			<td>Chandra Neppalli</td>
-			<td>cpneppal@buffalo.edu</td>
-			<td>cpneppal</td>
-		</tr>		
-		<tr>
-			<td>John Ryan</td>
-			<td>jpryan2@buffalo.edu</td>
-			<td>jpryan2</td>
+		<tr>	
+			<td>Vasu Baldwa</td>
+			<td>vasudevb@buffalo.edu</td>
+			<td>vasudevb</td>
 		</tr>
 	</tbody>
 </table>
@@ -151,6 +141,9 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Shreya Lakhkar</td>
 			<td>shreya</td>
 		</tr>
+		<tr>
+			<td>Anthony Magrene</td>
+			<td>magrene</td>
 		<tr>
 			<td>Aibek Zhylkaidarov</td>
 			<td>aibek</td>
@@ -266,12 +259,6 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW02</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, February 12th, 2022:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown v7</a>
-			</em></td>
-		</tr>		
-		<tr>
 			<td>Week 3</td>
 			<td>Firewalls</td>
 			<td>HW03</td>
@@ -282,28 +269,41 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW04</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, September 24th, 2022:
+				<a href="https://lockdown.ubnetdef.org">Internal Lockdown v2</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 5</td>
-			<td>Windows Incident Response</td>
+			<td>Linux</td>
 			<td>HW05</td>
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Linux</td>
+			<td>Windows Incident Response</td>
 			<td>HW06</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Advanced Firewalls</td>
+			<td>Application Security<br/>
+			Guest Lecture: Tim Mongan</td>
 			<td>HW07</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, October 15th, 2022:
+				<a href="https://lockdown.ubnetdef.org">Lockdown v13</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 8</td>
-			<td>Spring Break</td>
-			<td></td>
+			<td>Services</td>
+			<td>HW08</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Services</td>
+			<td>Advanced Firewalls</td>
 			<td>HW09</td>
 		</tr>
 		<tr>
@@ -313,15 +313,9 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW10</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, April 2nd, 2022:
-				<a href="https://lockdown.ubnetdef.org">Internal Lockdown v1</a>
-			</em></td>
-		</tr>		
-		<tr>
 			<td>Week 11</td>
 			<td>Risk Management<br/>
-			Guest Lecture: Phil Fox</td>
+			Guest Lecture: Anthony Magrene</td>
 			<td>HW11</td>
 		</tr>
 		<tr>
@@ -331,25 +325,25 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 13</td>
-			<td>Digital Forensics<br/>
-			Guest Lecture: Dominic Sellitto</td>
-			<td>HW13</td>
-		</tr>		
-		<tr>
-			<td colspan="3"><em>
-				Saturday, April 30th, 2022:
-				<a href="https://lockdown.ubnetdef.org">Lockdown v12</a>
-			</em></td>
+			<td>Fall Break</td>
+			<td></td>
 		</tr>		
 		<tr>
 			<td>Week 14</td>
 			<td>Lockdown: The Blue Teams Strike back!</td>
 			<td>Final Project</td>
 		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, December 3rd, 2022:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Highschool Lockdown v8</a>
+			</em></td>
+		</tr>		
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>Resume Advice</td>
+			<td>Digital Forensics<br/>
+			Guest Lecture: Dominic Sellitto</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
