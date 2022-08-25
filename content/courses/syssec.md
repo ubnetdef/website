@@ -73,12 +73,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>John Ryan</td>
-			<td>jpryan2@buffalo.edu</td>
-			<td>jpryan2</td>
-			<td>TBD</td>
-		</tr>
-		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
@@ -99,7 +93,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</thead>
 	<tbody>
 		<tr>
-			<td>Radhika Joise</td>
+			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
 		</tr>	
@@ -112,6 +106,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Vasu Baldwa</td>
 			<td>vasudevb@buffalo.edu</td>
 			<td>vasudevb</td>
+		</tr>
+		<tr>
+			<td>John Ryan</td>
+			<td>jpryan2@buffalo.edu</td>
+			<td>jpryan2</td>
 		</tr>
 	</tbody>
 </table>
