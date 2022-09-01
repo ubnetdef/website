@@ -58,25 +58,26 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>TBD</td>
+			<td>Wednesdays 1pm - 2pm</td>
 		</tr>
 		<tr>
 			<td>Phuong Quynh Nguyen</td>
 			<td>pnnguyen@buffalo.edu</td>
 			<td>pnnguyen</td>
-			<td>TBD</td>
+			<td>Mondays 2:30pm - 3:30pm</td>
 		</tr>
 		<tr>
 			<td>Griffin Refol</td>
 			<td>grefol@buffalo.edu</td>
 			<td>grefol</td>
-			<td>TBD</td>
+			<td>Mondays 8am - 9am<br/>
+			Fridays 9am - 10am</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>TBD</td>
+			<td>Thursdays 5pm - 6pm</td>
 		</tr>
 		
 	</tbody>
