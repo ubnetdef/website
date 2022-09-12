@@ -64,7 +64,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Phuong Quynh Nguyen</td>
 			<td>pnnguyen@buffalo.edu</td>
 			<td>pnnguyen</td>
-			<td>Mondays 2:30pm - 3:30pm</td>
+			<td>Mondays 2:00pm - 3:00pm</td>
 		</tr>
 		<tr>
 			<td>Griffin Refol</td>
