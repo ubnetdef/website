@@ -1,6 +1,6 @@
 ---
 date: "2022-09-22"
-title: "06 - Linux"
+title: "05 - Linux"
 
 course: "Systems Security"
 semester: "Fall"
