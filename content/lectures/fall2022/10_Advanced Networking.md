@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   Never stop networking!
 
-slides: "/slides/fall2022/Advanced_Networking.pdf"
+slides: "/slides/fall2022/AdvancedNetworking.pdf"
 
 has_page: false
 ---
