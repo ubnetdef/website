@@ -314,8 +314,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Risk Management<br/>
-			Guest Lecture: Anthony Magrene</td>
+			<td>Risk Management<br/></td>
 			<td>HW11</td>
 		</tr>
 		<tr>
