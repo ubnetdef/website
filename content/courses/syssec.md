@@ -329,8 +329,9 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 14</td>
-			<td>Lockdown: The Blue Teams Strike back!</td>
-			<td>Final Project</td>
+			<td>Digital Forensics<br>
+			Guest Lecture: Dominic Sellitto</td>
+			<td>HW13</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -341,8 +342,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>Digital Forensics<br/>
-			Guest Lecture: Dominic Sellitto</td>
+			<td>Lockdown: The Blue Teams Strike Back!</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
