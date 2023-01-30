@@ -1,17 +1,17 @@
 ---
-date: "2022-01-08"
+date: "2023-02-02"
 title: "Systems Security (MGS427/CSE427)"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Fall"
+semester: "Spring"
 year: 2022
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
@@ -29,14 +29,14 @@ Course faculty are responsible for planning, administering and overseeing the co
 	</thead>
 	<tbody>
 		<tr>
-			<td>Dave Murray</td>
-			<td>djmurray@buffalo.edu</td>
-			<td>djmurray</td>
-		</tr>
-		<tr>
 			<td>Kevin Cleary</td>
 			<td>kpcleary@buffalo.edu</td>
 			<td>cleary.kevin.p</td>
+		</tr>
+		<tr>
+			<td>Dave Murray</td>
+			<td>djmurray@buffalo.edu</td>
+			<td>djmurray</td>
 		</tr>
 	</tbody>
 </table>
@@ -58,26 +58,31 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>Wednesdays 1pm - 2pm</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Phuong Quynh Nguyen</td>
 			<td>pnnguyen@buffalo.edu</td>
 			<td>pnnguyen</td>
-			<td>Mondays 2:00pm - 3:00pm</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>Griffin Refol</td>
-			<td>grefol@buffalo.edu</td>
-			<td>grefol</td>
-			<td>Mondays 8am - 9am<br/>
-			Fridays 9am - 10am</td>
+			<td>Dikshit Khandelwal</td>
+			<td>dikshitk@buffalo.edu</td>
+			<td>dikshitkhandelwal</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Brennan Salvadori</td>
+			<td>bmsalvad@buffalo.edu</td>
+			<td>brennan5</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>Thursdays 5pm - 6pm</td>
+			<td>TBD</td>
 		</tr>
 		
 	</tbody>
@@ -99,19 +104,14 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>radhikaj</td>
 		</tr>	
 		<tr>
-			<td>Lucas Crassidis</td>
-			<td>lucascra@buffalo.edu</td>
-			<td>luke</td>
+			<td>Griffin Refol</td>
+			<td>grefol@buffalo.edu</td>
+			<td>grefol</td>
 		</tr>	
 		<tr>	
 			<td>Vasu Baldwa</td>
 			<td>vasudevb@buffalo.edu</td>
 			<td>vasudevb</td>
-		</tr>
-		<tr>
-			<td>John Ryan</td>
-			<td>jpryan2@buffalo.edu</td>
-			<td>jpryan2</td>
 		</tr>
 	</tbody>
 </table>
@@ -264,16 +264,16 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW03</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, February 18th, 2022:
+				<a href="[https://lockdown.ubnetdef.org](https://lockdown.ubnetdef.org/highschool)">High School Lockdown</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
 			<td>HW04</td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, September 24th, 2022:
-				<a href="https://lockdown.ubnetdef.org">Internal Lockdown v2</a>
-			</em></td>
-		</tr>		
 		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
@@ -286,16 +286,9 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 7</td>
-			<td>Application Security<br/>
-			Guest Lecture: Tim Mongan</td>
+			<td>Services</td>
 			<td>HW07</td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, October 15th, 2022:
-				<a href="https://lockdown.ubnetdef.org">Lockdown v13</a>
-			</em></td>
-		</tr>		
 		<tr>
 			<td>Week 8</td>
 			<td>Services</td>
@@ -308,37 +301,35 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 10</td>
-			<td>Advanced Networking<br/>
-			Guest Lecture: Kevin Cleary</td>
+			<td>Advanced Networking</td>
 			<td>HW10</td>
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Risk Management<br/></td>
-			<td>HW11</td>
+			<td>Application Security<br/>
+			Guest Lecture: Tim Mongan</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Penetration Testing</td>
+			<td>Risk Management<br/></td>
 			<td>HW12</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, April 22th, 2023:
+				<a href="https://lockdown.ubnetdef.org">Lockdown v14</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 13</td>
-			<td>Fall Break</td>
-			<td></td>
+			<td>Penetration Testing</td>
+			<td>HW13</td>
 		</tr>		
 		<tr>
 			<td>Week 14</td>
 			<td>Digital Forensics<br>
 			Guest Lecture: Dominic Sellitto</td>
-			<td>HW14</td>
-		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, December 3rd, 2022:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Highschool Lockdown v8</a>
-			</em></td>
-		</tr>		
+			<td>HW14</td>		
 		</tr>
 		<tr>
 			<td>Week 15</td>
