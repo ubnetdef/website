@@ -291,8 +291,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td colspan="2"><em>
-			Spring Break
+			<br><td colspan="2"><em>
+			Spring Break</br>
 			</em></td>
 		</tr>
 		<tr>
