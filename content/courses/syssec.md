@@ -291,8 +291,9 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Services</td>
-			<td>HW08</td>
+			<td colspan="2"><em>
+			Spring Break
+			</em></td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
