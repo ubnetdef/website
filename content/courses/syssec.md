@@ -355,7 +355,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 	</thead>
 	<tbody>
 		<tr>
-			<td>Attendance</td>
+			<td>Attendance and Professionalism</td>
 			<td>10%</td>
 		</tr>
 		<tr>
