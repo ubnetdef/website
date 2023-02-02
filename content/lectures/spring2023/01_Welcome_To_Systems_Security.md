@@ -14,7 +14,7 @@ summary: |
   Welcome to UBNetDef Spring 2023!
 
 
-slides: "/slides/spring2023/01_Welcome_To_System_Security.pdf"
+slides: "/slides/spring2023/01_Welcome_To_Systems_Security.pdf"
 
 has_page: false
 ---
