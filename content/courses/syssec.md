@@ -268,7 +268,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td colspan="3"><em>
 				Saturday, February 18th, 2022:
-				<a href="[https://lockdown.ubnetdef.org](https://lockdown.ubnetdef.org/highschool)">High School Lockdown</a>
+				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown</a>
 			</em></td>
 		</tr>		
 		<tr>
