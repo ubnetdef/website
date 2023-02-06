@@ -303,6 +303,12 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW09</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, April 1st, 2023:
+				<a href="https://lockdown.ubnetdef.org">Internal Lockdown</a>
+			</em></td>
+		</tr>		
+		<tr>
 			<td>Week 10</td>
 			<td>Advanced Networking</td>
 			<td>HW10</td>
