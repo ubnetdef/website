@@ -71,7 +71,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>dikshitk@buffalo.edu</td>
 			<td>dikshitkhandelwal</td>
 			<td>Wednesday 2:00PM - 3:00PM
-			<br>***Start from Week 3***</td>
 			
 		</tr>
 		<tr>
