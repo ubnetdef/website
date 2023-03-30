@@ -282,7 +282,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 6</td>
-			<td>Windows Incident Response</td>
+			<td>Windows Threat Hunting</td>
 			<td>HW06</td>
 		</tr>
 		<tr>
@@ -298,7 +298,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Advanced Firewalls</td>
+			<td>Firewalls II</td>
 			<td>HW09</td>
 		</tr>
 		<tr>
@@ -309,7 +309,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>		
 		<tr>
 			<td>Week 10</td>
-			<td>Advanced Networking</td>
+			<td>Networking II</td>
 			<td>HW10</td>
 		</tr>
 		<tr>
