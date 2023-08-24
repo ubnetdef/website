@@ -1,23 +1,23 @@
 ---
-date: "2023-02-02"
-title: "Systems Security (MGS427/CSE427)"
+date: "2023-08-23"
+title: "Systems Security (MGS427/CSE427/EAS 595)"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Spring"
-year: 2022
+semester: "Fall"
+year: 2023
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Spring 2022 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2023 / Capen 201a / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
 
 # Faculty
-Course faculty are responsible for planning, administering and overseeing the course in accordance with the University at Buffalo policies and this syllabus.  Faculty also determine final course grades consistent with the grading policy in this syllabus.
+Course faculty are responsible for planning, administering and overseeing the course in accordance with the University at Buffalo policies and this syllabus. Faculty also determine final course grades consistent with the grading policy in this syllabus.
 
 <table class="table">
 	<thead>
@@ -58,34 +58,49 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>Wednesday 12:30PM - 1:30PM</td>
-		</tr>
-		<tr>
-			<td>Phuong Quynh Nguyen</td>
-			<td>pnnguyen@buffalo.edu</td>
-			<td>pnnguyen</td>
-			<td>Tuesday 1:00PM - 2:00PM</td>
-		</tr>
-		<tr>
-			<td>Dikshit Khandelwal</td>
-			<td>dikshitk@buffalo.edu</td>
-			<td>dikshitkhandelwal</td>
-			<td>Wednesday 3:00PM - 4:00PM
-			
-		</tr>
-		<tr>
-			<td>Brennan Salvadori</td>
-			<td>bmsalvad@buffalo.edu</td>
-			<td>brennan5</td>
-			<td>Monday 1:00PM - 2:00PM</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>Thursday 5:00PM - 6:00PM</td>
+			<td>TBD</td>
 		</tr>
-		
+		<tr>
+			<td>Dikshit Khandelwal</td>
+			<td>dikshitk@buffalo.edu</td>
+			<td>dikshitkhandelwal</td>
+			<td>TBD</td>	
+		<tr>
+			<td>Lauren Moore</td>
+			<td>lbmoore@buffalo.edu</td>
+			<td>lbmoore</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Steffi Yeh</td>
+			<td>cyeh4@buffalo.edu</td>
+			<td>cyeh4</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Austin Chen</td>
+			<td>aechen2@buffalo.edu</td>
+			<td>aechen2</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Jonathan Pestinger</td>
+			<td>jlpetin@buffalo.edu</td>
+			<td>jlpestin</td>
+			<td>TBD</td>
+		</tr>
+		<tr>
+			<td>Kyle Lemma</td>
+			<td>kylelemm@buffalo.edu</td>
+			<td>kylelemm</td>
+			<td>TBD</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -103,6 +118,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Radhika Jois</td>
 			<td>radhikaj@buffalo.edu</td>
 			<td>radhikaj</td>
+		</tr>	
+		<tr>
+			<td>Blake Turner</td>
+			<td>blaketur@buffalo.edu</td>
+			<td>baletnr</td>
 		</tr>	
 		<tr>
 			<td>Griffin Refol</td>
@@ -145,6 +165,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>magrene</td>
+		</tr>
 		<tr>
 			<td>Aibek Zhylkaidarov</td>
 			<td>aibek</td>
@@ -265,16 +286,16 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW03</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, February 18th, 2023:
-				<a href="https://lockdown.ubnetdef.org/highschool/">High School Lockdown</a>
-			</em></td>
-		</tr>		
-		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
 			<td>HW04</td>
 		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, September 23rd, 2023:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
+			</em></td>
+		</tr>		
 		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
@@ -292,24 +313,23 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td colspan="2"><em>
-			<b>Spring Break</b>
-			</em></td>
-		</tr>
-		<tr>
-			<td>Week 9</td>
-			<td>Firewalls II</td>
-			<td>HW09</td>
-		</tr>
+			<td>Firewalls 2</td>
+			<td>HW08</td>
+		</tr>	
 		<tr>
 			<td colspan="3"><em>
-				Saturday, April 1st, 2023:
-				<a href="https://lockdown.ubnetdef.org">Internal Lockdown</a>
+				Saturday, October 21st, 2023:
+				<a href="https://lockdown.ubnetdef.org">Collegiate Lockdown</a>
 			</em></td>
-		</tr>		
+		</tr>	
+		<tr>
+			<td>Week 9</td>
+			<td>Networking II</td>
+			<td>HW09</td>
+		</tr>	
 		<tr>
 			<td>Week 10</td>
-			<td>Networking II</td>
+			<td>Risk Analysis + Mangement</td>
 			<td>HW10</td>
 		</tr>
 		<tr>
@@ -320,20 +340,15 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Risk Management<br/></td>
+			<td>Pen Testing<br/></td>
 			<td>HW12</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, April 22th, 2023:
-				<a href="https://lockdown.ubnetdef.org">Lockdown v14</a>
-			</em></td>
-		</tr>		
-		<tr>
 			<td>Week 13</td>
-			<td>Penetration Testing</td>
-			<td>HW13</td>
-		</tr>		
+			<td colspan="2"><em>
+			<b>Thanksgiving Break</b>
+			</em></td>
+		</tr>
 		<tr>
 			<td>Week 14</td>
 			<td>Digital Forensics<br>
@@ -341,8 +356,14 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW14</td>		
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, December 2nd, 2023:
+				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
+			</em></td>
+		</tr>	
+		<tr>
 			<td>Week 15</td>
-			<td>Lockdown: The Blue Teams Strike Back!</td>
+			<td>Secure Coding</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
