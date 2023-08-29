@@ -289,18 +289,18 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>Week 4</td>
 			<td>Windows</td>
 			<td>HW04</td>
-		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, September 23rd, 2023:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
-			</em></td>
-		</tr>		
+		</tr>	
 		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
 			<td>HW05</td>
 		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, September 30th, 2023:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
+			</em></td>
+		</tr>	
 		<tr>
 			<td>Week 6</td>
 			<td>Windows Threat Hunting</td>
