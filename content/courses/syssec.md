@@ -70,7 +70,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Dikshit Khandelwal</td>
 			<td>dikshitk@buffalo.edu</td>
 			<td>dikshitkhandelwal</td>
-			<td>TBD</td>	
+			<td>Wednesday 12:00p-1:00p</td>	
 		<tr>
 			<td>Lauren Moore</td>
 			<td>lbmoore@buffalo.edu</td>
@@ -87,7 +87,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Austin Chen</td>
 			<td>aechen2@buffalo.edu</td>
 			<td>aechen2</td>
-			<td>TBD</td>
+			<td>Wednesday 3:00p-4:00p</td>
 		</tr>
 		<tr>
 			<td>Jonathan Pestinger</td>
