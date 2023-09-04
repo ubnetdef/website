@@ -11,7 +11,7 @@ difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2023 / Capen 201a / Thursdays 6:30PM - 9:30PM"
+subtext: "Fall 2023 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
@@ -58,13 +58,13 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>TBD</td>
+			<td>Tuesday 3:30p-4:30p</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>TBD</td>
+			<td>Thursday 5:00p-6:00p</td>
 		</tr>
 		<tr>
 			<td>Dikshit Khandelwal</td>
@@ -75,13 +75,13 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Lauren Moore</td>
 			<td>lbmoore@buffalo.edu</td>
 			<td>lbmoore</td>
-			<td>TBD</td>
+			<td>Monday 1:00p-2:00p</td>
 		</tr>
 		<tr>
 			<td>Steffi Yeh</td>
 			<td>cyeh4@buffalo.edu</td>
 			<td>cyeh4</td>
-			<td>TBD</td>
+			<td>Wednesday 2:00p-3:00p</td>
 		</tr>
 		<tr>
 			<td>Austin Chen</td>
@@ -91,15 +91,15 @@ Student Instructors are responsible for implementing the course curriculum and p
 		</tr>
 		<tr>
 			<td>Jonathan Pestinger</td>
-			<td>jlpetin@buffalo.edu</td>
+			<td>jlpestin@buffalo.edu</td>
 			<td>jlpestin</td>
-			<td>TBD</td>
+			<td>Monday 5:00p-6:00p</td>
 		</tr>
 		<tr>
 			<td>Kyle Lemma</td>
 			<td>kylelemm@buffalo.edu</td>
 			<td>kylelemm</td>
-			<td>TBD</td>
+			<td>Wednesday 11:00a-12:00p</td>
 		</tr>
 	</tbody>
 </table>
