@@ -313,7 +313,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Firewalls 2</td>
+			<td>Networking II</td>
 			<td>HW08</td>
 		</tr>	
 		<tr>
@@ -324,7 +324,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 9</td>
-			<td>Networking II</td>
+			<td>Firewalls 2</td>
 			<td>HW09</td>
 		</tr>	
 		<tr>
