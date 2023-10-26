@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   The better firewalls!
 
-slides: "/slides/spring2023/Firewalls2.pdf"
+slides: "/slides/fall2023/Firewalls2.pdf"
 
 has_page: false
 ---
