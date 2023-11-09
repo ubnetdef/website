@@ -334,7 +334,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 11</td>
-			<td>Application Security<br/>
+			<td> Database Security<br/>
 			Guest Lecture: Tim Mongan</td>
 			<td></td>
 		</tr>
