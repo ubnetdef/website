@@ -7,7 +7,7 @@ semester: "Fall"
 year: 2023
 author: "Kyle Lemma and Dikshit Khandelwal"
 
-slug: "Digital Forenics & OSINT"
+slug: "Secure Coding"
 navbar_active_link: "lectures"
 
 summary: |
