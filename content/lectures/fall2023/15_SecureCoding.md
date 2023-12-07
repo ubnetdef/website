@@ -1,5 +1,5 @@
 ---
-date: "2023-12-6"
+date: "2023-12-06"
 title: "15 - Secure Coding"
 
 course: "Systems Security"
