@@ -1,17 +1,17 @@
 ---
-date: "2018-01-29"
+date: "2024-01-24"
 title: "Security Development Program"
 navbar_active_link: "courses"
 
 course: "Security Development Program"
-course_number: 400
+course_number: 495
 semester: "Spring"
-year: 2018
+year: 2024
 difficulty: "Advanced"
 
 active: true
 
-subtext: "Spring 2018 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2024 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 
 # Overview
