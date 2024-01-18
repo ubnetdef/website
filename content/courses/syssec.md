@@ -96,12 +96,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>TBD</td>
 		</tr>
 		<tr>
-			<td>Ben Juliano</td>
-			<td>bjjulian@buffalo.edu</td>
-			<td>bjjulian</td>
-			<td>TBD</td>
-		</tr>
-		<tr>
 			<td>Josh Wajnrb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
