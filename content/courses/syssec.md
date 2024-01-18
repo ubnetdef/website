@@ -276,7 +276,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Intermediate Networking</td>
+			<td>Intermediate Networking (virtual lecture to precede)</td>
 			<td>HW02</td>
 		</tr>
 		<tr>
@@ -324,12 +324,12 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 10</td>
 			<td>Firewalls 2</td>
-			<td>HW09</td>
+			<td>HW10</td>
 		</tr>	
 		<tr>
 			<td>Week 11</td>
 			<td>Risk Analysis + Mangement</td>
-			<td>HW10</td>
+			<td>HW11</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -346,7 +346,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 13</td>
 			<td>Pen Testing<br/></td>
-			<td>HW11</td>
+			<td>HW13</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -358,7 +358,7 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>Week 14</td>
 			<td>Network Resiliency<br>
 			Guest Lecture: Dominic Sellitto</td>
-			<td>HW12</td>		
+			<td>HW14</td>		
 		</tr>
 		<tr>
 			<td>Week 15</td>
@@ -467,7 +467,8 @@ Students are expected to exhibit professionalism, treat others with respect, and
 
 ## Use of Generative AI 
 This course allows the use of generative AI tools (e.g., ChatGPT) on certain assignments within given guidelines. Failure to follow these guidelines may be considered a violation of UB’s academic integrity policy. If you are unsure how and when generative AI can be used, be sure to ask. 
-Generative AI tools are best used as idea generation, not as a citable reference. Any use of generative AI tools must be rigorously documented and submitted with your assignment. 
+
+**Generative AI tools are best used as idea generation**, not as a citable reference. Any use of generative AI tools must be rigorously documented and submitted with your assignment. 
 
 ## Academic Integrity
 Students must conduct themselves in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
