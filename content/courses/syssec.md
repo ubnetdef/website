@@ -279,15 +279,15 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW03</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, Febuary 2nd, 2024:
-				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
-			</em></td>
-		</tr>	
-		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
 			<td>HW04</td>
+		</tr>	
+		<tr>
+			<td colspan="3"><em>
+				Saturday, Febuary 10th, 2024:
+				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
+			</em></td>
 		</tr>	
 		<tr>
 			<td>Week 5</td>
