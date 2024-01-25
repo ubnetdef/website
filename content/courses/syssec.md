@@ -58,54 +58,54 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>TBD</td>
+			<td>Tuesday 1pm-2pm</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>TBD</td>
+			<td>Wednesday 11am-12pm</td>
 		</tr>
 		<tr>
 			<td>Dikshit Khandelwal</td>
 			<td>dikshitk@buffalo.edu</td>
 			<td>dikshitkhandelwal</td>
-			<td>TBD</td>	
+			<td>Thursday 12:30pm-1:30pm</td>	
 		<tr>
 			<td>Lauren Moore</td>
 			<td>lbmoore@buffalo.edu</td>
 			<td>lbmoore</td>
-			<td>TBD</td>
+			<td>Monday 2pm-3pm</td>
 		</tr>
 		<tr>
 			<td>Steffi Yeh</td>
 			<td>cyeh4@buffalo.edu</td>
 			<td>cyeh4</td>
-			<td>TBD</td>
+			<td>Thursday 3pm-4pm</td>
 		</tr>
 		<tr>
 			<td>Austin Chen</td>
 			<td>aechen2@buffalo.edu</td>
 			<td>aechen2</td>
-			<td>TBD</td>
+			<td>Monday 11am-12pm</td>
 		</tr>
 		<tr>
 			<td>Ben Juliano</td>
 			<td>bjjulian@buffalo.edu</td>
 			<td>bjjulian</td>
-			<td>TBD</td>
+			<td>Tuesday 2pm-3pm</td>
 		</tr>
 		<tr>
-			<td>Josh Wajnrb</td>
+			<td>Josh Wajnryb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
-			<td>TBD</td>
+			<td>Wednesday 1pm-2pm</td>
 		</tr>
 		<tr>
 			<td>Shreyas Ramesh</td>
 			<td>ramesh3@buffalo.edu</td>
 			<td>ramesh3</td>
-			<td>TBD</td>
+			<td>Thursday 2pm-3pm</td>
 		</tr>
 	</tbody>
 </table>
