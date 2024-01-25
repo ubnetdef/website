@@ -123,7 +123,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 		<tr>
 			<td>Blake Turner</td>
 			<td>blaketur@buffalo.edu</td>
-			<td>baletnr</td>
+			<td>blaketnr</td>
 		</tr>	
 		<tr>
 			<td>Griffin Refol</td>
