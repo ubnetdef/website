@@ -3,7 +3,7 @@ date: "2024-02-01"
 title: "02 - Networking"
 
 course: "Systems Security"
-semester: "Fall"
+semester: "Spring"
 year: 2024
 author: "Raymond Harenza"
 
