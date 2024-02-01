@@ -14,7 +14,7 @@ summary: |
   Let's Talk!
 
 
-slides: "/slides/fall2024/Networking.pdf"
+slides: "/slides/spring2024/Networking.pdf"
 
 has_page: false
 ---
