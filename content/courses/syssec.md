@@ -270,7 +270,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 2</td>
-			<td>Intermediate Networking (virtual lecture to precede)</td>
+			<td>Intermediate Networking<br/>
+			(virtual lecture to precede)</td>
 			<td>HW02</td>
 		</tr>
 		<tr>
