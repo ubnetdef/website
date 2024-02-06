@@ -70,7 +70,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Dikshit Khandelwal</td>
 			<td>dikshitk@buffalo.edu</td>
 			<td>dikshitkhandelwal</td>
-			<td>Thursday 12:30pm-1:30pm</td>	
+			<td>Thursday 2pm-3pm</td>	
 		<tr>
 			<td>Lauren Moore</td>
 			<td>lbmoore@buffalo.edu</td>
@@ -105,7 +105,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Shreyas Ramesh</td>
 			<td>ramesh3@buffalo.edu</td>
 			<td>ramesh3</td>
-			<td>Thursday 2pm-3pm</td>
+			<td>Thursday 1pm-2pm</td>
 		</tr>
 	</tbody>
 </table>
@@ -333,7 +333,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 12</td>
-			<td> TBD <br/>
+			<td>Data Loss Prevention<br/>
 			Guest Lecture: Tim Mongan</td>
 			<td></td>
 		</tr>
