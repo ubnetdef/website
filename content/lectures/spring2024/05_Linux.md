@@ -5,6 +5,7 @@ title: "05 - Linux"
 course: "Systems Security"
 semester: "Spring"
 year: 2024
+author: ""
 
 slug: "Linux"
 navbar_active_link: "lectures"
