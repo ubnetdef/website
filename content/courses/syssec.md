@@ -307,7 +307,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 8</td>
-			<td>Secure Coding</td>
+			<td>Software Security</td>
 			<td>HW08</td>
 		</tr>
 		<tr>
