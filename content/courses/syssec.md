@@ -352,12 +352,12 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 14</td>
 			<td>Network Resiliency<br>
-			Guest Lecture: Dominic Sellitto</td>
 			<td>HW14</td>		
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>Digital Forensics</td>
+			<td>Digital Forensics</br>
+			Guest Lecture: Dominic Sellitto</td>
 			<td>Final Project</td>
 		</tr>
 	</tbody>
