@@ -322,16 +322,16 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW10</td>
 		</tr>	
 		<tr>
-			<td>Week 11</td>
-			<td>Risk Analysis + Mangement</td>
-			<td>HW11</td>
-		</tr>
-		<tr>
 			<td colspan="3"><em>
 				Saturday, March 30th, 2024:
 				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
 			</em></td>
 		</tr>	
+		<tr>
+			<td>Week 11</td>
+			<td>Risk Analysis + Mangement</td>
+			<td>HW11</td>
+		</tr>
 		<tr>
 			<td>Week 12</td>
 			<td>Data Loss Prevention<br/>
