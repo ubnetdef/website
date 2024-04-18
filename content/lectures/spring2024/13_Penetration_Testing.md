@@ -13,7 +13,7 @@ navbar_active_link: "lectures"
 summary: |
   l00k m0m, 1'm 4 h4ck3r n0w
 
-slides: "/slides/spring2024/PenetestingS24.pdf"
+slides: "/slides/spring2024/PentestingS24.pdf"
 
 has_page: false
 ---
