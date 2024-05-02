@@ -356,7 +356,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 15</td>
-			<td>Digital Forensics</br>
+			<td>OSINT & Digital Forensics</br>
 			Guest Lecture: Dominic Sellitto</td>
 			<td>Final Project</td>
 		</tr>
