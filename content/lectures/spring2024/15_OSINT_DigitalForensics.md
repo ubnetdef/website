@@ -3,7 +3,7 @@ date: "2024-05-02"
 title: "15 - Digital Forensics & OSINT"
 
 course: "Systems Security"
-semester: "Fall"
+semester: "Spring"
 year: 2024
 author: "Dominic Sellitto"
 
