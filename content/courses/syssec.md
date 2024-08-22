@@ -87,19 +87,19 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Ben Donders</td>
 			<td>bhdonder@buffalo.edu</td>
 			<td>bhdonder</td>
-			<td>Monday 11am-12pm</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Ben Juliano</td>
 			<td>bjjulian@buffalo.edu</td>
 			<td>bjjulian</td>
-			<td>Tuesday 2pm-3pm</td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>Josh Wajnryb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
-			<td>Wednesday 1pm-2pm</td>
+			<td>TBD</td>
 		</tr>
 	</tbody>
 </table>
@@ -115,9 +115,9 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</thead>
 	<tbody>
 		<tr>
-			<td>Griffin Refol</td>
-			<td>grefol@buffalo.edu</td>
-			<td>grefol</td>
+			<td>Mahek Acharya</td>
+			<td>mahekach@buffalo.edu</td>
+			<td>mahekacharya</td>
 		</tr>	
 	</tbody>
 </table>
@@ -147,6 +147,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>magrene</td>
+		</tr>	
+		<tr>
+			<td>Griffin Refol</td>
+			<td>grefol@buffalo.edu</td>
+			<td>grefol</td>
 		</tr>	
 		<tr>
 			<td>Aaron Fiebelkorn</td>
@@ -323,7 +328,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 12</td>
 			<td>Powershell & Bash Scripting Basics</td>
-			<td>No H</td>
+			<td>No HW</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
