@@ -309,7 +309,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 9</td>
 			<td>Advanced Networking<br>
-			<td>HW9</td>		
+			<td>HW09</td>		
 		</tr>	
 		<tr>
 			<td colspan="3"><em>
