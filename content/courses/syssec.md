@@ -133,7 +133,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 	<tbody>
 		<tr>	
 			<td>Vasu Baldwa</td>
-			<td>vasudevb@buffalo.edu</td>
 			<td>vasudevb</td>
 		</tr>	
 		<tr>
@@ -150,7 +149,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 		</tr>	
 		<tr>
 			<td>Griffin Refol</td>
-			<td>grefol@buffalo.edu</td>
 			<td>grefol</td>
 		</tr>	
 		<tr>
@@ -240,6 +238,10 @@ All students are required to participate fully in at least two cybersecurity com
 ## Homework Assignments
 Homework will  be assigned each week, and will be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
+## Late Policy
+Homeworks will be accepted late (after 6:29pm Thursday) at a 25 point reduction each day. Each day after Thursday the point reduction will be at 11:59PM. 
+Be careful submitting homeworks late, it's easy to fall behind and they are the largest component of your grade! 
+
 ## Final Project
 An individual final project will be assigned at the end of the semester, which will require you to apply all the material covered during the semester.  This will involve deploying, configuring, securing and assessing a small-scale enterprise network of Linux and Windows systems.
 
@@ -317,7 +319,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 10</td>
-			<td>Firewalls 2</td>
+			<td>Firewalls 2 & Containerization</td>
 			<td>HW10</td>
 		</tr>	
 		<tr>
