@@ -1,17 +1,17 @@
 ---
-date: "2024-08-22"
+date: "2024-01-24"
 title: "Systems Security (MGS427/CSE427/EAS595)"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Fall"
+semester: "Spring"
 year: 2024
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2024 / Clemens 120 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2024 / Jacobs B30 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
@@ -58,35 +58,35 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharanz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>TBD</td>
+			<td>Tuesday 1pm-2pm</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>TBD</td>
+			<td>Wednesday 11am-12pm</td>
 		</tr>
 		<tr>
-			<td>Blake Turner</td>
-			<td>blaketur@buffalo.edu</td>
-			<td>blaketnr</td>
-			<td>TBD</td>	
+			<td>Dikshit Khandelwal</td>
+			<td>dikshitk@buffalo.edu</td>
+			<td>dikshitkhandelwal</td>
+			<td>Thursday 2pm-3pm</td>	
 		<tr>
-			<td>Jared Moskowitz</td>
-			<td>jsmoskow@buffalo.edu</td>
-			<td>jsmoskow</td>
-			<td>TBD</td>
+			<td>Lauren Moore</td>
+			<td>lbmoore@buffalo.edu</td>
+			<td>lbmoore</td>
+			<td>Monday 2pm-3pm</td>
 		</tr>
 		<tr>
-			<td>Caleb Garver</td>
-			<td>cbgarver@buffalo.edu</td>
-			<td>cbgarver</td>
-			<td>TBD</td>
+			<td>Steffi Yeh</td>
+			<td>cyeh4@buffalo.edu</td>
+			<td>cyeh4</td>
+			<td>Thursday 3pm-4pm</td>
 		</tr>
 		<tr>
-			<td>Ben Donders</td>
-			<td>bhdonder@buffalo.edu</td>
-			<td>bhdonder</td>
+			<td>Austin Chen</td>
+			<td>aechen2@buffalo.edu</td>
+			<td>aechen2</td>
 			<td>Monday 11am-12pm</td>
 		</tr>
 		<tr>
@@ -100,6 +100,12 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
 			<td>Wednesday 1pm-2pm</td>
+		</tr>
+		<tr>
+			<td>Shreyas Ramesh</td>
+			<td>ramesh3@buffalo.edu</td>
+			<td>ramesh3</td>
+			<td>Thursday 1pm-2pm</td>
 		</tr>
 	</tbody>
 </table>
@@ -115,10 +121,20 @@ Student Instructors are responsible for implementing the course curriculum and p
 	</thead>
 	<tbody>
 		<tr>
+			<td>Blake Turner</td>
+			<td>blaketur@buffalo.edu</td>
+			<td>blaketnr</td>
+		</tr>	
+		<tr>
 			<td>Griffin Refol</td>
 			<td>grefol@buffalo.edu</td>
 			<td>grefol</td>
 		</tr>	
+		<tr>	
+			<td>Vasu Baldwa</td>
+			<td>vasudevb@buffalo.edu</td>
+			<td>vasudevb</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -131,10 +147,9 @@ Student Instructors are responsible for implementing the course curriculum and p
 		</tr>
 	</thead>
 	<tbody>
-		<tr>	
-			<td>Vasu Baldwa</td>
-			<td>vasudevb@buffalo.edu</td>
-			<td>vasudevb</td>
+		<tr>
+			<td>Aaron Fiebelkorn</td>
+			<td>aaron</td>
 		</tr>	
 		<tr>
 			<td>Phil Fox</td>
@@ -147,11 +162,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 		<tr>
 			<td>Anthony Magrene</td>
 			<td>magrene</td>
-		</tr>	
-		<tr>
-			<td>Aaron Fiebelkorn</td>
-			<td>aaron</td>
-		</tr>	
+		</tr>		
 	</tbody>
 </table>
 
@@ -274,15 +285,15 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW04</td>
 		</tr>	
 		<tr>
+			<td colspan="3"><em>
+				Saturday, Febuary 10th, 2024:
+				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
+			</em></td>
+		</tr>	
+		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
 			<td>HW05</td>
-		</tr>	
-		<tr>
-			<td colspan="3"><em>
-				Saturday, September 28th, 2024:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
-			</em></td>
 		</tr>	
 		<tr>
 			<td>Week 6</td>
@@ -301,13 +312,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Advanced Networking<br>
-			<td>HW9</td>		
-		</tr>	
-		<tr>
-			<td colspan="3"><em>
-				Saturday, October 26th, 2024:
-				<a href="https://lockdown.ubnetdef.org">Collegiate Lockdown</a>
+			<td colspan="2"><em>
+			<b>Spring Break</b>
 			</em></td>
 		</tr>	
 		<tr>
@@ -316,32 +322,38 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW10</td>
 		</tr>	
 		<tr>
+			<td colspan="3"><em>
+				Saturday, March 30th, 2024:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
+			</em></td>
+		</tr>	
+		<tr>
 			<td>Week 11</td>
 			<td>Risk Analysis + Mangement</td>
 			<td>HW11</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Powershell & Bash Scripting Basics</td>
-			<td>No H</td>
+			<td>Data Loss Prevention<br/>
+			Guest Lecture: Tim Mongan</td>
+			<td></td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, November 11th, 2024:
-				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
-			</em></td>
-		</tr>	
 		<tr>
 			<td>Week 13</td>
 			<td>Pen Testing<br/></td>
 			<td>HW13</td>
 		</tr>
 		<tr>
-			<td>Week 14</td>
-			<td colspan="2"><em>
-			<b>Thanksgiving Break</b>
+			<td colspan="3"><em>
+				Saturday, April 20th, 2024:
+				<a href="https://lockdown.ubnetdef.org">Collegiate Lockdown</a>
 			</em></td>
 		</tr>	
+		<tr>
+			<td>Week 14</td>
+			<td>Network Resiliency<br>
+			<td>HW14</td>		
+		</tr>
 		<tr>
 			<td>Week 15</td>
 			<td>OSINT & Digital Forensics</br>
