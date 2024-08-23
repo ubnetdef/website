@@ -56,7 +56,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 	<tbody>
 		<tr>
 			<td>Raymond Harenza</td>
-			<td>rwharanz@buffalo.edu</td>
+			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
 			<td>TBD</td>
 		</tr>
@@ -118,6 +118,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Mahek Acharya</td>
 			<td>mahekach@buffalo.edu</td>
 			<td>mahekacharya</td>
+		</tr>	
+		<tr>
+			<td>Lauren Moore</td>
+			<td>lbmoore@buffalo.edu</td>
+			<td>lbmoore</td>
 		</tr>	
 	</tbody>
 </table>
