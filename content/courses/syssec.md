@@ -38,6 +38,11 @@ Course faculty are responsible for planning, administering and overseeing the co
 			<td>djmurray@buffalo.edu</td>
 			<td>djmurray</td>
 		</tr>
+		<tr>
+			<td>Dominic Sellito</td>
+			<td>dmsellit@buffalo.edu</td>
+			<td>dsellitto</td>
+		</tr>
 	</tbody>
 </table>
 
@@ -58,48 +63,48 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>TBD</td>
+			<td>Tuesday 4:00pm-5:00pm</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>TBD</td>
+			<td>Thursday 4:00pm-5:00pm</td>
 		</tr>
 		<tr>
 			<td>Blake Turner</td>
 			<td>blaketur@buffalo.edu</td>
 			<td>blaketnr</td>
-			<td>TBD</td>	
+			<td>Thursday 5:00pm-6:00pm</td>	
 		<tr>
 			<td>Jared Moskowitz</td>
 			<td>jsmoskow@buffalo.edu</td>
 			<td>jsmoskow</td>
-			<td>TBD</td>
+			<td>Monday 2:00pm-3:00pm</td>
 		</tr>
 		<tr>
 			<td>Caleb Garver</td>
 			<td>cbgarver@buffalo.edu</td>
 			<td>cbgarver</td>
-			<td>TBD</td>
+			<td>Monday 4:00pm-5:00pm</td>
 		</tr>
 		<tr>
 			<td>Ben Donders</td>
 			<td>bhdonder@buffalo.edu</td>
 			<td>bhdonder</td>
-			<td>TBD</td>
+			<td>Wednesday 11:00am-12:00pm</td>
 		</tr>
 		<tr>
 			<td>Ben Juliano</td>
 			<td>bjjulian@buffalo.edu</td>
 			<td>bjjulian</td>
-			<td>TBD</td>
+			<td>Wednesday 3:00pm-4:00pm</td>
 		</tr>
 		<tr>
 			<td>Josh Wajnryb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
-			<td>TBD</td>
+			<td>Monday 11:00am-12:00pm</td>
 		</tr>
 	</tbody>
 </table>
@@ -291,16 +296,16 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW05</td>
 		</tr>	
 		<tr>
-			<td colspan="3"><em>
-				Saturday, September 28th, 2024:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
-			</em></td>
-		</tr>	
-		<tr>
 			<td>Week 6</td>
 			<td>Windows Threat Hunting</td>
 			<td>HW06</td>
 		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, October 5th, 2024:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
+			</em></td>
+		</tr>	
 		<tr>
 			<td>Week 7</td>
 			<td>Services + Hardening</td>
@@ -334,20 +339,21 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td>Week 12</td>
-			<td>Powershell & Bash Scripting Basics</td>
-			<td>No HW</td>
+			<td>OSINT & Digital Forensics</br>
+			Guest Lecture: Dominic Sellitto</td>
+			<td>Final Project</td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, November 11th, 2024:
-				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
-			</em></td>
-		</tr>	
 		<tr>
 			<td>Week 13</td>
 			<td>Pen Testing<br/></td>
 			<td>HW13</td>
 		</tr>
+		<tr>
+			<td colspan="3"><em>
+				Saturday, November 16th, 2024:
+				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
+			</em></td>
+		</tr>	
 		<tr>
 			<td>Week 14</td>
 			<td colspan="2"><em>
@@ -356,9 +362,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 15</td>
-			<td>OSINT & Digital Forensics</br>
-			Guest Lecture: Dominic Sellitto</td>
-			<td>Final Project</td>
+			<td>Powershell & Bash Scripting Basics</td>
+			<td>No HW</td>
 		</tr>
 	</tbody>
 </table>
@@ -382,7 +387,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			<td>10%</td>
 		</tr>
 		<tr>
-			<td>Weekly Projects</td>
+			<td>Homework</td>
 			<td>65%</td>
 		</tr>
 		<tr>
