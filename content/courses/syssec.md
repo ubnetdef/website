@@ -362,7 +362,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>
 		<tr>
 			<td colspan="3"><em>
-				Saturday, April 10th, 2025:
+				Saturday, April 12th, 2025:
 				<a href="https://lockdown.ubnetdef.org">Collegiate Lockdown</a>
 			</em></td>
 		</tr>	
