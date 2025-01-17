@@ -69,7 +69,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>Monday 10:00am - 11:00am</td>
+			<td>Wednesday 10:00am - 11:00am</td>
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
@@ -92,7 +92,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
-			<td>Sam DiLiberto</td>
+			<td>Samantha DiLiberto</td>
 			<td>sfdilibe@buffalo.edu</td>
 			<td>sfdilibe</td>
 			<td>Thursday 11:00am - 12:00pm</td>
