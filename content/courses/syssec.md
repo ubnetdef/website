@@ -1,17 +1,17 @@
 ---
-date: "2024-08-22"
+date: "2025-01-17"
 title: "Systems Security (MGS427/CSE427/EAS595)"
 navbar_active_link: "courses"
 
 course: "Systems Security"
 course_number: 100
-semester: "Fall"
-year: 2024
+semester: "Spring"
+year: 2025
 difficulty: "Beginner"
 
 active: true
 
-subtext: "Fall 2024 / Clemens 120 / Thursdays 6:30PM - 9:30PM"
+subtext: "Spring 2025 / Clemens 120 / Thursdays 6:30PM - 9:30PM"
 ---
 # Overview
 During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network.
@@ -28,6 +28,11 @@ Course faculty are responsible for planning, administering and overseeing the co
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td>Edwin Kairu</td>
+			<td>ekairu@buffalo.edu</td>
+			<td>ekairu</td>
+		</tr>
 		<tr>
 			<td>Kevin Cleary</td>
 			<td>kpcleary@buffalo.edu</td>
@@ -63,48 +68,48 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>Tuesday 4:00pm-5:00pm</td>
+			<td>Monday 10:00am - 11:00am</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
-			<td>Thursday 4:00pm-5:00pm</td>
+			<td>Monday 12:30pm - 1:30pm</td>
 		</tr>
 		<tr>
 			<td>Blake Turner</td>
 			<td>blaketur@buffalo.edu</td>
 			<td>blaketnr</td>
-			<td>Thursday 5:00pm-6:00pm</td>	
+			<td>N/A</td>	
 		<tr>
 			<td>Jared Moskowitz</td>
 			<td>jsmoskow@buffalo.edu</td>
 			<td>jsmoskow</td>
-			<td>Monday 2:00pm-3:00pm</td>
+			<td>Monday 3:00PM - 4:00PM</td>
 		</tr>
 		<tr>
-			<td>Caleb Garver</td>
-			<td>cbgarver@buffalo.edu</td>
-			<td>cbgarver</td>
-			<td>Monday 4:00pm-5:00pm</td>
+			<td>Sam DiLiberto</td>
+			<td>sfdilibe@buffalo.edu</td>
+			<td>sfdilibe</td>
+			<td>Thursday 11:00am - 12:00pm</td>
 		</tr>
 		<tr>
 			<td>Ben Donders</td>
 			<td>bhdonder@buffalo.edu</td>
 			<td>bhdonder</td>
-			<td>Wednesday 11:00am-12:00pm</td>
+			<td>Wednesday 12:30pm - 1:30pm</td>
 		</tr>
 		<tr>
-			<td>Ben Juliano</td>
-			<td>bjjulian@buffalo.edu</td>
-			<td>bjjulian</td>
-			<td>Wednesday 3:00pm-4:00pm</td>
+			<td>Farhad Deewan</td>
+			<td>farhadde@buffalo.edu</td>
+			<td>farhadde</td>
+			<td>Tuesday 2:30pm - 3:30pm</td>
 		</tr>
 		<tr>
 			<td>Josh Wajnryb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
-			<td>Monday 11:00am-12:00pm</td>
+			<td>Thursday 1:00pm - 2:00pm</td>
 		</tr>
 	</tbody>
 </table>
@@ -128,6 +133,11 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Lauren Moore</td>
 			<td>lbmoore@buffalo.edu</td>
 			<td>lbmoore</td>
+		</tr>	
+		<tr>
+			<td>Caleb Garver</td>
+			<td>cbgarver@buffalo.edu</td>
+			<td>cbgarver</td>
 		</tr>	
 	</tbody>
 </table>
@@ -245,12 +255,11 @@ Attendance for all lectures is required. One absence or late arrival is permitte
 ## Competition Participation
 All students are required to participate fully in at least two cybersecurity competitions, one of which should be a UB Lockdown competition as either a competitor or competition organizer. Various competition opportunities will be announced throughout the semester.
 
-## Homework Assignments
-Homework will  be assigned each week, and will be based on the topics in the [class schedule](#class-schedule). Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
+## Weekly Lab Assignments
+Your homework each week will be a lab based on the topics in the [class schedule](#class-schedule). Each assignment consists of two parts: System State and your Report. If you do not submit a report that portion of your lab will be a 0, however your system state will be graded regardless of your report status. Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
-## Late Policy
-Homeworks will be accepted late (after 6:29pm Thursday) at a 25 point reduction each day. Each day after Thursday the point reduction will be at 11:59PM. 
-Be careful submitting homeworks late, it's easy to fall behind and they are the largest component of your grade! 
+## Remediation Policy
+Assignments are due before lecture each week. This class does not offer a late policy, however we offer two opportunities for remediation as listed in the [class schedule](#class-schedule). This comes with a stipulation however, you may only regain points lost on the report section of your assignment. For example: you complete your week 3 homework, earning a 20/40 for your system state and a 15/60 for your report. During remedation week you may resubmit your report with all the suggested changes earning a 60/60. Your new assignment grade will be an 80/100.
 
 ## Final Project
 An individual final project will be assigned at the end of the semester, which will require you to apply all the material covered during the semester.  This will involve deploying, configuring, securing and assessing a small-scale enterprise network of Linux and Windows systems.
@@ -286,6 +295,12 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW03</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, February 8th, 2025:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Highschool Lockdown</a>
+			</em></td>
+		</tr>	
+		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
 			<td>HW04</td>
@@ -301,65 +316,59 @@ An individual final project will be assigned at the end of the semester, which w
 			<td>HW06</td>
 		</tr>
 		<tr>
-			<td colspan="3"><em>
-				Saturday, October 5th, 2024:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
-			</em></td>
-		</tr>	
-		<tr>
 			<td>Week 7</td>
 			<td>Services + Hardening</td>
 			<td>HW07</td>
 		</tr>
 		<tr>
+			<td colspan="3"><em>
+				Saturday, March 8th, 2025:
+				<a href="https://lockdown.ubnetdef.org/highschool/">Highschool Lockdown</a>
+			</em></td>
+		</tr>	
+		<tr>
 			<td>Week 8</td>
 			<td>Software Security</td>
-			<td>HW08</td>
+			<td>HW08 & Remediation Opportunity</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
-			<td>Advanced Networking<br>
-			<td>HW09</td>		
+			<td colspan="2"><em>
+			<b>Spring Break</b>
+			</em></td>		
 		</tr>	
 		<tr>
+			<td>Week 10</td>
+			<td>Advanced Networking</td>
+			<td>HW09</td>
+		</tr>	
+		<tr>
+			<td>Week 11</td>
+			<td>Firewalls 2 & Containerization</td>
+			<td>HW10</td>
+		</tr>
+		<tr>
+			<td>Week 12</td>
+			<td>Risk Analysis & Management</td>
+			<td>HW11</td>
+		</tr>
+		<tr>
 			<td colspan="3"><em>
-				Saturday, October 26th, 2024:
+				Saturday, April 10th, 2025:
 				<a href="https://lockdown.ubnetdef.org">Collegiate Lockdown</a>
 			</em></td>
 		</tr>	
 		<tr>
-			<td>Week 10</td>
-			<td>Firewalls 2 & Containerization</td>
-			<td>HW10</td>
-		</tr>	
-		<tr>
-			<td>Week 11</td>
-			<td>Risk Analysis + Mangement</td>
-			<td>HW11</td>
-		</tr>
-		<tr>
-			<td>Week 12</td>
+			<td>Week 13</td>
 			<td>OSINT & Digital Forensics</br>
 			Guest Lecture: Dominic Sellitto</td>
-			<td>Final Project</td>
+			<td>Final Project & Remediation Opportunity</td>
 		</tr>
 		<tr>
-			<td>Week 13</td>
+			<td>Week 14</td>
 			<td>Pen Testing<br/></td>
 			<td>HW13</td>
 		</tr>
-		<tr>
-			<td colspan="3"><em>
-				Saturday, November 16th, 2024:
-				<a href="https://lockdown.ubnetdef.org">HS Lockdown</a>
-			</em></td>
-		</tr>	
-		<tr>
-			<td>Week 14</td>
-			<td colspan="2"><em>
-			<b>Thanksgiving Break</b>
-			</em></td>
-		</tr>	
 		<tr>
 			<td>Week 15</td>
 			<td>Powershell & Bash Scripting Basics</td>
@@ -468,7 +477,7 @@ Students are expected to exhibit professionalism, treat others with respect, and
 ## Use of Generative AI 
 This course allows the use of generative AI tools (e.g., ChatGPT) on certain assignments within given guidelines. Failure to follow these guidelines may be considered a violation of UB’s academic integrity policy. If you are unsure how and when generative AI can be used, be sure to ask. 
 
-**Generative AI tools are best used as idea generation**, not as a citable reference. Any use of generative AI tools must be rigorously documented and submitted with your assignment. 
+**Generative AI tools are best used as idea generation**, not as a citable reference. Any use of generative AI tools must be rigorously documented and submitted with your assignment. When documenting use of generative AI you must include the model you used as well as the prompt given and output generated. Documentation must be included within your assignment, failure to follow these guidelines may be considered a violation of UB's academic integrity policy. 
 
 ## Academic Integrity
 Students must conduct themselves in a manner that does not violate the University at Buffalo’s Academic Integrity Policy.  Students found in violation of the [Academic Integrity Policy](https://catalog.buffalo.edu/policies/integrity.html) will receive an F for the course.
