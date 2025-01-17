@@ -61,6 +61,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<th>Email</th>
 			<th>Chat Username</th>
 			<th>Office Hours</th>
+			<th>Office Hours Location</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -69,12 +70,14 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
 			<td>Monday 10:00am - 11:00am</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Ethan Viapiano</td>
 			<td>ethanvia@buffalo.edu</td>
 			<td>ethanvia</td>
 			<td>Monday 12:30pm - 1:30pm</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Blake Turner</td>
@@ -86,30 +89,35 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>jsmoskow@buffalo.edu</td>
 			<td>jsmoskow</td>
 			<td>Monday 3:00PM - 4:00PM</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Sam DiLiberto</td>
 			<td>sfdilibe@buffalo.edu</td>
 			<td>sfdilibe</td>
 			<td>Thursday 11:00am - 12:00pm</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Ben Donders</td>
 			<td>bhdonder@buffalo.edu</td>
 			<td>bhdonder</td>
 			<td>Wednesday 12:30pm - 1:30pm</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Farhad Deewan</td>
 			<td>farhadde@buffalo.edu</td>
 			<td>farhadde</td>
 			<td>Tuesday 2:30pm - 3:30pm</td>
+			<td>Jacobs 323</td>
 		</tr>
 		<tr>
 			<td>Josh Wajnryb</td>
 			<td>jwajnryb@buffalo.edu</td>
 			<td>jwajnryb</td>
 			<td>Thursday 1:00pm - 2:00pm</td>
+			<td>Jacobs 323</td>
 		</tr>
 	</tbody>
 </table>
