@@ -225,7 +225,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 	<tbody>
 		<tr>
 			<td>Learn and Apply Basic Security Concepts</td>
-			<td>Homework &amp; Project</td>
+			<td>Lab &amp; Project</td>
 			<td align="center">1</td>
 			<td align="center">1,7</td>
 		</tr>
@@ -243,13 +243,13 @@ Student Instructors are responsible for implementing the course curriculum and p
 		</tr>
 		<tr>
 			<td>Identify Threats and Vulnerabilities of Systems</td>
-			<td>Homework &amp; Competitions</td>
+			<td>Lab &amp; Competitions</td>
 			<td align="center">1</td>
 			<td align="center">1,6</td>			
 		</tr>
         	<tr>
 			<td>Effectively Communicate via Written Reports</td>
-			<td>Homework  &amp; Project</td>
+			<td>Lab  &amp; Project</td>
 			<td align="center">3</td>
 			<td align="center">3</td>			
 		</tr>
@@ -263,11 +263,11 @@ Attendance for all lectures is required. One absence or late arrival is permitte
 ## Competition Participation
 All students are required to participate fully in at least two cybersecurity competitions, one of which should be a UB Lockdown competition as either a competitor or competition organizer. Various competition opportunities will be announced throughout the semester.
 
-## Weekly Lab Assignments
-Your homework each week will be a lab based on the topics in the [class schedule](#class-schedule). Each assignment consists of two parts: System State and your Report. If you do not submit a report that portion of your lab will be a 0, however your system state will be graded regardless of your report status. Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
+## Weekly Lab
+Your lab each week will be based on the topics in the [class schedule](#class-schedule). Each lab consists of two parts: System State and your Report. If you do not submit a report that portion of your lab will be a 0, however your system state will be graded regardless of your report status. Unless otherwise specified, they will be released and submitted at [ublearns.buffalo.edu](https://ublearns.buffalo.edu).
 
 ## Remediation Policy
-Assignments are due before lecture each week. This class does not offer a late policy, however we offer two opportunities for remediation as listed in the [class schedule](#class-schedule). This comes with a stipulation however, you may only regain points lost on the report section of your assignment and you may only remediate one assignment per opportunity (for a total of 2). For example: you complete your week 3 homework, earning a 20 out of 40 for your system state and a 15 out of 60 for your report. During remedation week you may resubmit your report with all the suggested changes earning a 60 out of 60. Your new assignment grade will be an 80 out of 100.
+Labs are due before lecture each week. This class does not offer a late policy, however we offer two opportunities for remediation as listed in the [class schedule](#class-schedule). This comes with a stipulation however, you may only regain points lost on the report section of your lab and you may only remediate one lab per opportunity (for a total of 2). For example: you complete your week 3 lab, earning a 20 out of 40 for your system state and a 15 out of 60 for your report. During remedation week you may resubmit your report with all the suggested changes earning a 60 out of 60. Your new lab grade will be an 80 out of 100.
 
 ## Final Project
 An individual final project will be assigned at the end of the semester, which will require you to apply all the material covered during the semester.  This will involve deploying, configuring, securing and assessing a small-scale enterprise network of Linux and Windows systems.
@@ -282,25 +282,25 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<th style="width: 25%">Week</th>
 			<th style="width: 45%">Topic</th>
-			<th style="width: 30%">Homework</th>
+			<th style="width: 30%">Lab</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>Week 1</td>
 			<td>Welcome - 1000-mile overview, vSphere, Virtualization</td>
-			<td>HW01</td>
+			<td>Lab01</td>
 		</tr>
 		<tr>
 			<td>Week 2</td>
 			<td>Intermediate Networking<br/>
 			(virtual lecture to precede)</td>
-			<td>HW02</td>
+			<td>Lab02</td>
 		</tr>
 		<tr>
 			<td>Week 3</td>
 			<td>Firewalls</td>
-			<td>HW03</td>
+			<td>Lab03</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -311,22 +311,22 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 4</td>
 			<td>Windows</td>
-			<td>HW04</td>
+			<td>Lab04</td>
 		</tr>	
 		<tr>
 			<td>Week 5</td>
 			<td>Linux</td>
-			<td>HW05</td>
+			<td>Lab05</td>
 		</tr>	
 		<tr>
 			<td>Week 6</td>
 			<td>Windows Threat Hunting</td>
-			<td>HW06</td>
+			<td>Lab06</td>
 		</tr>
 		<tr>
 			<td>Week 7</td>
 			<td>Services + Hardening</td>
-			<td>HW07</td>
+			<td>Lab07</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -337,7 +337,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 8</td>
 			<td>Software Security</td>
-			<td>HW08 & Remediation Opportunity</td>
+			<td>Lab08 & Remediation Opportunity</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
@@ -348,17 +348,17 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 10</td>
 			<td>Advanced Networking</td>
-			<td>HW09</td>
+			<td>Lab09</td>
 		</tr>	
 		<tr>
 			<td>Week 11</td>
 			<td>Firewalls 2 & Containerization</td>
-			<td>HW10</td>
+			<td>Lab10</td>
 		</tr>
 		<tr>
 			<td>Week 12</td>
 			<td>Risk Analysis & Management</td>
-			<td>HW11</td>
+			<td>Lab11</td>
 		</tr>
 		<tr>
 			<td colspan="3"><em>
@@ -375,12 +375,12 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 14</td>
 			<td>Pen Testing<br/></td>
-			<td>HW13</td>
+			<td>Lab13</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
 			<td>Powershell & Bash Scripting Basics</td>
-			<td>No HW</td>
+			<td>No Lab</td>
 		</tr>
 	</tbody>
 </table>
@@ -404,7 +404,7 @@ The best way to request assistance is to ask on the `Systems Security` channel o
 			<td>10%</td>
 		</tr>
 		<tr>
-			<td>Homework</td>
+			<td>Labs</td>
 			<td>65%</td>
 		</tr>
 		<tr>
