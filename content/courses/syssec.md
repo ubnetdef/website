@@ -88,7 +88,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Jared Moskowitz</td>
 			<td>jsmoskow@buffalo.edu</td>
 			<td>jsmoskow</td>
-			<td>Monday 3:00PM - 4:00PM</td>
+			<td>Monday 1:30PM - 2:30PM</td>
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
@@ -106,7 +106,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
-			<td>Farhad Deewan</td>
+			<td>Farhad Dewan</td>
 			<td>farhadde@buffalo.edu</td>
 			<td>farhadde</td>
 			<td>Tuesday 2:30pm - 3:30pm</td>
