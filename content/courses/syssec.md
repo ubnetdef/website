@@ -331,7 +331,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td colspan="3"><em>
 				Saturday, March 8th, 2025:
-				<a href="https://lockdown.ubnetdef.org/highschool/">Highschool Lockdown</a>
+				<a href="https://lockdown.ubnetdef.org/highschool/">Internal Lockdown</a>
 			</em></td>
 		</tr>	
 		<tr>
