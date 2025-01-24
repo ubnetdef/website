@@ -99,13 +99,6 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
-			<td>Ben Donders</td>
-			<td>bhdonder@buffalo.edu</td>
-			<td>bhdonder</td>
-			<td>Wednesday 12:30pm - 1:30pm</td>
-			<td>Jacobs 323</td>
-		</tr>
-		<tr>
 			<td>Farhad Dewan</td>
 			<td>farhadde@buffalo.edu</td>
 			<td>farhadde</td>
