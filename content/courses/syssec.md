@@ -69,7 +69,7 @@ Student Instructors are responsible for implementing the course curriculum and p
 			<td>Raymond Harenza</td>
 			<td>rwharenz@buffalo.edu</td>
 			<td>rwharenz</td>
-			<td>Wednesday 10:00am - 11:00am</td>
+			<td>Wednesday 11:00am - 12:00am</td>
 			<td>Jacobs 323</td>
 		</tr>
 		<tr>
