@@ -313,7 +313,7 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 6</td>
-			<td>Windows Threat Hunting</td>
+			<td>Windows Security</td>
 			<td>Lab06</td>
 		</tr>
 		<tr>
