@@ -330,7 +330,7 @@ An individual final project will be assigned at the end of the semester, which w
 		<tr>
 			<td>Week 8</td>
 			<td>Software Security</td>
-			<td>Lab08 & Remediation Opportunity</td>
+			<td>Remediation Opportunity</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
