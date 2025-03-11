@@ -340,14 +340,14 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 10</td>
-			<td>OSINT & Digital Forensics</br>
-			Guest Lecture: Dominic Sellitto</td>
-		</tr>	
-		<tr>
-			<td>Week 11</td>
 			<td>Firewalls 2 & Containerization</td>
 			<td>Lab10</td>
 		</tr>
+		<tr>
+			<td>Week 11</td>
+			<td>OSINT & Digital Forensics</br>
+			Guest Lecture: Dominic Sellitto</td>
+		</tr>	
 		<tr>
 			<td>Week 12</td>
 			<td>Risk Analysis & Management</td>
