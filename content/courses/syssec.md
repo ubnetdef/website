@@ -329,8 +329,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 8</td>
-			<td>Software Security</td>
-			<td>Remediation Opportunity</td>
+			<td>Advanced Networking</td>
+			<td>Lab 8 & Remediation Opportunity</td>
 		</tr>
 		<tr>
 			<td>Week 9</td>
@@ -340,8 +340,8 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 10</td>
-			<td>Advanced Networking</td>
-			<td>Lab09</td>
+			<td>OSINT & Digital Forensics</br>
+			Guest Lecture: Dominic Sellitto</td>
 		</tr>	
 		<tr>
 			<td>Week 11</td>
@@ -361,14 +361,13 @@ An individual final project will be assigned at the end of the semester, which w
 		</tr>	
 		<tr>
 			<td>Week 13</td>
-			<td>OSINT & Digital Forensics</br>
-			Guest Lecture: Dominic Sellitto</td>
-			<td>Final Project & Remediation Opportunity</td>
+			<td>Pen Testing</td>
+			<td>Final Project & Lab13</td>
 		</tr>
 		<tr>
 			<td>Week 14</td>
-			<td>Pen Testing<br/></td>
-			<td>Lab13</td>
+			<td>Software Security<br/></td>
+			<td>Lab14 & Remediation Opportunity</td>
 		</tr>
 		<tr>
 			<td>Week 15</td>
