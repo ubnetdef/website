@@ -1,4 +1,6 @@
 baseurl: "https://ubnetdef.org/"
+relativeURLs: true #remove after adding cert
+canonifyURLs: false #remove after adding cert
 languageCode: "en-us"
 title: "UBNetDef"
 theme: "ubnetdef_2016"
