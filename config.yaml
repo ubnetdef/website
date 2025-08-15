@@ -1,4 +1,4 @@
-baseurl: "https://ubnetdef.org/"
+baseurl: "http://ubnetdef.org/" # Change back to https
 relativeURLs: true #remove after adding cert
 canonifyURLs: false #remove after adding cert
 languageCode: "en-us"
