@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>UBNetDef — Down for Maintenance</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            background: #0d1117;
+            color: #c9d1d9;
+            font-family: 'IBM Plex Sans', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        /* ── Backdrop canvas ── */
+        canvas {
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        header {
+            position: relative;
+            z-index: 1;
+            padding: 18px 32px;
+            border-bottom: 1px solid #21262d;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            color: #8b949e;
+        }
+
+        header strong { color: #e6edf3; font-weight: 600; }
+
+        .dot {
+            display: inline-block;
+            width: 8px; height: 8px;
+            border-radius: 50%;
+            background: #f85149;
+            margin-right: 7px;
+            animation: blink 2s ease infinite;
+            vertical-align: middle;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50%       { opacity: 0.35; }
+        }
+
+        main {
+            position: relative;
+            z-index: 1;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 24px;
+            text-align: center;
+        }
+
+        .icon {
+            width: 56px; height: 56px;
+            border-radius: 14px;
+            background: #161b22;
+            border: 1px solid #30363d;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 28px;
+        }
+
+        .icon svg {
+            width: 26px; height: 26px;
+            stroke: #8b949e;
+            fill: none;
+            stroke-width: 1.8;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: #e6edf3;
+            margin-bottom: 10px;
+            letter-spacing: -0.01em;
+        }
+
+        p {
+            font-size: 0.95rem;
+            color: #8b949e;
+            line-height: 1.65;
+            max-width: 380px;
+            font-weight: 300;
+        }
+
+        .divider {
+            width: 36px;
+            height: 1px;
+            background: #21262d;
+            margin: 28px auto;
+        }
+
+        .note { font-size: 0.78rem; color: #484f58; }
+
+        footer {
+            position: relative;
+            z-index: 1;
+            padding: 16px 32px;
+            border-top: 1px solid #21262d;
+            text-align: center;
+            font-size: 0.75rem;
+            color: #484f58;
+        }
+    </style>
+</head>
+<body>
+
+    <canvas id="bg"></canvas>
+
+    <header>
+        <strong>UBNetDef</strong>
+        <span><span class="dot"></span>Webpage Unavailable</span>
+    </header>
+
+    <main>
+        <div class="icon">
+            <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                <path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/>
+            </svg>
+        </div>
+
+        <h1>This webpage is down for maintenance.</h1>
+        <p>Scheduled updates are underway. <br> We apologize for any inconvenience.</p>
+
+        <div class="divider"></div>
+        <span class="note">University at Buffalo — UB Network Defense</span>
+    </main>
+
+    <footer>ubnetdef.org</footer>
+
+    <script>
+        const canvas = document.getElementById('bg');
+        const ctx    = canvas.getContext('2d');
+
+        function resize() {
+            canvas.width  = window.innerWidth;
+            canvas.height = window.innerHeight;
+        }
+        resize();
+        window.addEventListener('resize', resize);
+
+        // Floating particles
+        const COUNT = 38;
+        const particles = Array.from({ length: COUNT }, () => ({
+            x:  Math.random() * window.innerWidth,
+            y:  Math.random() * window.innerHeight,
+            r:  Math.random() * 1.5 + 0.5,
+            vx: (Math.random() - 0.5) * 0.3,
+            vy: (Math.random() - 0.5) * 0.3,
+            alpha: Math.random() * 0.4 + 0.1,
+        }));
+
+        const LINK_DIST = 140;
+
+        function draw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+            const W = canvas.width;
+            const H = canvas.height;
+
+            // Move
+            particles.forEach(p => {
+                p.x += p.vx;
+                p.y += p.vy;
+                if (p.x < 0) p.x = W;
+                if (p.x > W) p.x = 0;
+                if (p.y < 0) p.y = H;
+                if (p.y > H) p.y = 0;
+            });
+
+            // Lines between nearby particles
+            for (let i = 0; i < particles.length; i++) {
+                for (let j = i + 1; j < particles.length; j++) {
+                    const dx = particles[i].x - particles[j].x;
+                    const dy = particles[i].y - particles[j].y;
+                    const dist = Math.sqrt(dx * dx + dy * dy);
+                    if (dist < LINK_DIST) {
+                        const opacity = (1 - dist / LINK_DIST) * 0.12;
+                        ctx.beginPath();
+                        ctx.strokeStyle = `rgba(56, 139, 253, ${opacity})`;
+                        ctx.lineWidth = 1;
+                        ctx.moveTo(particles[i].x, particles[i].y);
+                        ctx.lineTo(particles[j].x, particles[j].y);
+                        ctx.stroke();
+                    }
+                }
+            }
+
+            // Dots
+            particles.forEach(p => {
+                ctx.beginPath();
+                ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
+                ctx.fillStyle = `rgba(56, 139, 253, ${p.alpha})`;
+                ctx.fill();
+            });
+
+            requestAnimationFrame(draw);
+        }
+
+        draw();
+    </script>
+
+</body>
+</html>
